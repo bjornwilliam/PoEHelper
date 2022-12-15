@@ -1,0 +1,98 @@
+2022-12-13 00:11:42.757 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 00:11:42.760 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 00:11:42.760 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 00:17:54.904 +01:00 [ERR] Stats over capped: First: 415F656C63697472 - Last: 6575486F6465626C - Size (bytes): 2600233961917246970 Total Stats: 325029245239655871
+2022-12-13 00:25:55.456 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:25:55.661 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:25:55.877 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:25:56.091 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:25:56.298 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:26:42.156 +01:00 [ERR] Something wrong we parse 46 when expect 23
+2022-12-13 00:39:47.319 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 00:39:47.546 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 09:10:49.091 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 09:10:49.095 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 09:10:49.095 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 09:11:40.926 +01:00 [ERR] BasicFlaskRoutine: Ignoring Flask 48 for an empty or null path.
+2022-12-13 09:41:07.011 +01:00 [ERR] Stats over capped: First: 2779DEEC370 - Last: 277A38A6978 - Size (bytes): 94086664 Total Stats: 11760833
+2022-12-13 10:22:52.465 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 10:22:52.470 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 10:22:52.470 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 10:32:25.194 +01:00 [ERR] IconsBuilder -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.IconsBuilder.EntityAddedLogic(Entity entity)
+   at IconsBuilder.IconsBuilder.TickLogic()
+2022-12-13 11:24:59.354 +01:00 [ERR] HighlightedItems, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at HighlightedItems.HighlightedItems.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-13 11:37:46.778 +01:00 [ERR] Something wrong we parse 102 when expect 32
+2022-12-13 11:39:14.219 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 11:39:14.222 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 11:39:14.222 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 11:47:54.138 +01:00 [ERR] Something wrong we parse 270 when expect 86
+2022-12-13 11:47:54.896 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-13 11:48:20.629 +01:00 [ERR] Stats over capped: First: 65007300720075 - Last: 6E006F00200073 - Size (bytes): 2533257605152766 Total Stats: 316657200644095
+2022-12-13 11:58:16.521 +01:00 [ERR] Something wrong we parse 103 when expect 46
+2022-12-13 12:23:12.553 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 12:23:12.556 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 12:23:12.556 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 12:25:47.786 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-13 12:25:48.241 +01:00 [ERR] Stats over capped: First: 4 - Last: 2500000919 - Size (bytes): 158913792277 Total Stats: 19864224034
+2022-12-13 12:25:48.242 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-13 12:25:51.743 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-13 12:30:05.439 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-13 13:15:26.214 +01:00 [ERR] Something wrong we parse 113 when expect 37
+2022-12-13 13:17:09.344 +01:00 [ERR] Something wrong we parse 115 when expect 39
+2022-12-13 13:25:00.516 +01:00 [ERR] Something wrong we parse 55 when expect 16
+2022-12-13 13:32:42.344 +01:00 [ERR] Something wrong we parse 112 when expect 45
+2022-12-13 14:25:53.642 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 14:25:53.646 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 14:25:53.646 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 14:46:11.581 +01:00 [ERR] Something wrong we parse 58 when expect 23
+2022-12-13 14:59:39.447 +01:00 [ERR] Something wrong we parse 148 when expect 71
+2022-12-13 15:07:50.120 +01:00 [ERR] Stats over capped: First: 7 - Last: 13677160000 - Size (bytes): 1333437792249 Total Stats: 166679724031
+2022-12-13 15:07:50.120 +01:00 [ERR] Stats over capped: First: 7 - Last: 13677150000 - Size (bytes): 1333437726713 Total Stats: 166679715839
+2022-12-13 17:26:00.895 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 17:26:00.900 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 17:26:00.900 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 18:45:04.142 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 18:45:04.146 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 18:45:04.146 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 20:29:18.686 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 20:29:18.690 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 20:29:18.690 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 20:35:06.353 +01:00 [ERR] Something wrong we parse 305 when expect 52
+2022-12-13 20:58:45.987 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 20:58:45.990 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 20:58:45.990 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 21:07:54.140 +01:00 [ERR] Stats over capped: First: 40A9C56EB9D02000 - Last: B9CFC00040EB4DA0 - Size (bytes): 8729658955671481760 Total Stats: 1091207369458935220
+2022-12-13 21:19:27.383 +01:00 [ERR] IconsBuilder -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.Shared.Abstract.BaseIcon..ctor(Entity entity, ISettings settings)
+   at IconsBuilder.NpcIcon..ctor(Entity entity, GameController gameController, IconsBuilderSettings settings)
+   at IconsBuilder.IconsBuilder.EntityAddedLogic(Entity entity)
+   at IconsBuilder.IconsBuilder.TickLogic()
+2022-12-13 21:19:27.387 +01:00 [ERR] IconsBuilder -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.Shared.Abstract.BaseIcon..ctor(Entity entity, ISettings settings)
+   at IconsBuilder.MiscIcon..ctor(Entity entity, GameController gameController, IconsBuilderSettings settings)
+   at IconsBuilder.IconsBuilder.EntityAddedLogic(Entity entity)
+   at IconsBuilder.IconsBuilder.TickLogic()
+2022-12-13 21:19:43.169 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 21:19:43.173 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 21:19:43.173 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 21:21:52.112 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 21:21:52.115 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 21:21:52.115 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 21:31:58.582 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-13 21:31:58.588 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-13 21:31:58.588 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-13 21:39:04.335 +01:00 [ERR] Something wrong we parse 65 when expect 21
+2022-12-13 21:54:22.082 +01:00 [ERR] IconsBuilder -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.Shared.Abstract.BaseIcon..ctor(Entity entity, ISettings settings)
+   at IconsBuilder.IconsBuilder.EntityAddedLogic(Entity entity)
+   at IconsBuilder.IconsBuilder.TickLogic()
+2022-12-13 22:18:57.000 +01:00 [ERR] Something wrong we parse 154 when expect 65
+2022-12-13 22:26:27.547 +01:00 [ERR] Stats over capped: First: 65007300720075 - Last: 6E006F00200073 - Size (bytes): 2533257605152766 Total Stats: 316657200644095
+2022-12-13 22:49:37.136 +01:00 [ERR] HealthBars, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at HealthBars.HealthBars.DrawBar(HealthBar bar) in HealthBars\HealthBars.cs:line 276
+   at HealthBars.HealthBars.Render() in HealthBars\HealthBars.cs:line 244
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-13 23:00:42.836 +01:00 [ERR] Something wrong we parse 54 when expect 26

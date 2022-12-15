@@ -1,0 +1,98 @@
+{
+  "RefreshArea": {},
+  "ShowDebugWindow": {
+    "Value": false
+  },
+  "UseNewMemoryBackend": {
+    "Value": true
+  },
+  "Profiles": {
+    "Value": "global"
+  },
+  "Theme": {
+    "Value": "Default"
+  },
+  "KeyMenuRoot": {},
+  "MainMenuKeyToggle": {
+    "Value": 123
+  },
+  "MultiThreadLoadPlugins": {
+    "Value": false
+  },
+  "AvoidLockingDllFiles": {
+    "Value": false
+  },
+  "AreaChangeMultiThread": {
+    "Value": true
+  },
+  "AddedMultiThread": {
+    "Value": false
+  },
+  "CoroutineMultiThreading": {
+    "Value": true
+  },
+  "ParseEntitiesInMultiThread": {
+    "Value": true
+  },
+  "CollectDebugInformation": {
+    "Value": true
+  },
+  "Threads": {
+    "Value": 1
+  },
+  "PerfomanceRoot": {},
+  "TargetFps": {
+    "Value": 120
+  },
+  "TargetParallelFPS": {
+    "Value": 223
+  },
+  "EntitiesUpdate": {
+    "Value": 99
+  },
+  "ParseServerEntities": {
+    "Value": false
+  },
+  "CollectEntitiesInParallelWhenMoreThanX": {
+    "Value": false
+  },
+  "LimitDrawPlot": {
+    "Value": 0.2
+  },
+  "VSync": {
+    "Value": false
+  },
+  "Font": {
+    "Value": "Default:13"
+  },
+  "FontSize": {
+    "Value": 13
+  },
+  "ApplySelectedFontGlobally": {
+    "Value": true
+  },
+  "MouseCursorScale": {
+    "Value": 1.0
+  },
+  "ShowDebugLog": {
+    "Value": false
+  },
+  "ShowDemoWindow": {
+    "Value": false
+  },
+  "Volume": {
+    "Value": 100
+  },
+  "Enable": {
+    "Value": false
+  },
+  "ForceForeground": {
+    "Value": false
+  },
+  "HideAllDebugging": {
+    "Value": false
+  },
+  "DisableBlackBarAdjustment": {
+    "Value": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Enable": true,
+  "Debug": false,
+  "PauseAbilityUsage": {
+    "Value": 113
+  },
+  "TestKey1": {
+    "Value": 114
+  },
+  "TestKey2": {
+    "Value": 115
+  }
+}
