@@ -16,5 +16,5 @@
   },
   "FilterNullAction": false,
   "Debug": false,
-  "Enable": false
+  "Enable": true
 }

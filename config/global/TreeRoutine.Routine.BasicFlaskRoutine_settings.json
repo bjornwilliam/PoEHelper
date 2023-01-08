@@ -32,13 +32,13 @@
   "MinManaFlask": {
     "Value": 50
   },
-  "RemAilment": false,
-  "RemFrozen": false,
+  "RemAilment": true,
+  "RemFrozen": true,
   "RemBurning": false,
   "RemShocked": false,
   "RemCurse": false,
   "RemPoison": false,
-  "RemBleed": false,
+  "RemBleed": true,
   "CorruptCount": {
     "Value": 10
   },
@@ -46,7 +46,7 @@
   "QuicksilverFlaskEnable": true,
   "SilverFlaskEnable": false,
   "MinMsPlayerMoving": {
-    "Value": 1500
+    "Value": 774
   },
   "UseWhileCycloning": false,
   "CycloningMonsterCount": {
@@ -55,29 +55,29 @@
   "CycloningMonsterDistance": {
     "Value": 400
   },
-  "CycloningCountNormalMonsters": false,
+  "CycloningCountNormalMonsters": true,
   "CycloningCountMagicMonsters": false,
   "CycloningCountRareMonsters": false,
   "CycloningCountUniqueMonsters": false,
   "CycloningIgnoreFullHealthUniqueMonsters": false,
-  "DefensiveFlaskEnable": false,
+  "DefensiveFlaskEnable": true,
   "HPPercentDefensive": {
-    "Value": 50
+    "Value": 86
   },
   "ESPercentDefensive": {
     "Value": 50
   },
   "OffensiveAsDefensiveEnable": false,
   "DefensiveMonsterCount": {
-    "Value": 0
+    "Value": 1
   },
   "DefensiveMonsterDistance": {
     "Value": 400
   },
-  "DefensiveCountNormalMonsters": false,
-  "DefensiveCountRareMonsters": false,
-  "DefensiveCountMagicMonsters": false,
-  "DefensiveCountUniqueMonsters": false,
+  "DefensiveCountNormalMonsters": true,
+  "DefensiveCountRareMonsters": true,
+  "DefensiveCountMagicMonsters": true,
+  "DefensiveCountUniqueMonsters": true,
   "DefensiveIgnoreFullHealthUniqueMonsters": false,
   "BossingModeToggle": false,
   "BossingModeHotkey": {
@@ -85,7 +85,7 @@
   },
   "OffensiveFlaskEnable": true,
   "HPPercentOffensive": {
-    "Value": 50
+    "Value": 80
   },
   "ESPercentOffensive": {
     "Value": 50
@@ -96,10 +96,10 @@
   "OffensiveMonsterDistance": {
     "Value": 400
   },
-  "OffensiveCountNormalMonsters": false,
-  "OffensiveCountRareMonsters": false,
-  "OffensiveCountMagicMonsters": false,
-  "OffensiveCountUniqueMonsters": false,
+  "OffensiveCountNormalMonsters": true,
+  "OffensiveCountRareMonsters": true,
+  "OffensiveCountMagicMonsters": true,
+  "OffensiveCountUniqueMonsters": true,
   "OffensiveIgnoreFullHealthUniqueMonsters": true,
   "FlaskSettings": [
     {

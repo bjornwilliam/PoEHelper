@@ -1,0 +1,58 @@
+2022-12-24 06:38:28.381 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 06:38:28.384 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 06:38:28.384 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 06:46:34.141 +01:00 [ERR] Something wrong we parse 532 when expect 117
+2022-12-24 07:00:07.737 +01:00 [ERR] Something wrong we parse 314 when expect 146
+2022-12-24 07:04:02.558 +01:00 [ERR] Something wrong we parse 63 when expect 29
+2022-12-24 07:21:04.411 +01:00 [ERR] Something wrong we parse 106 when expect 50
+2022-12-24 08:10:08.808 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 08:10:08.812 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 08:10:08.812 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 08:22:49.686 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 08:22:49.689 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 08:22:49.690 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 08:35:29.024 +01:00 [ERR] Something wrong we parse 244 when expect 36
+2022-12-24 08:46:37.694 +01:00 [ERR] EntityList -> Address is 0;
+2022-12-24 08:47:04.761 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-24 08:47:07.411 +01:00 [ERR] EntityList -> Address is 0;
+2022-12-24 08:47:33.551 +01:00 [ERR] Willplug: Exception! Printscreen this and post it.
+Object reference not set to an instance of an object.
+   at Willplug.BotBehavior.CharAbilities.GetActorSkill(String actorSkillName) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\CharAbilities.cs:line 687
+   at Willplug.BotBehavior.CharAbilities.<>c__DisplayClass111_0.<SwapToWeaponSetUsingSkill>b__0(Object context) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\CharAbilities.cs:line 827
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Decorator.cs:line 65
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.TreeSharp.PrioritySelector.Execute(Object context)+MoveNext() in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\PrioritySelector.cs:line 60
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Decorator.cs:line 78
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.BaseTreeRoutinePlugin`2.TickTree(Composite treeRoot) in C:\William\GIT\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\BaseTreeRoutinePlugin.cs:line 110
+2022-12-24 08:48:39.302 +01:00 [ERR] EntityListWrapper -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExileCore.EntityListWrapper.AreaChanged(AreaInstance area)
+2022-12-24 08:54:56.074 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 08:54:56.078 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 08:54:56.078 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 19:49:48.731 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 19:49:48.734 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 19:49:48.734 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 20:58:00.997 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 20:58:01.000 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 20:58:01.000 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 21:12:44.125 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 21:12:44.128 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 21:12:44.128 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 21:35:13.659 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 21:35:13.662 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 21:35:13.662 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-24 22:10:57.744 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-24 22:38:36.951 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-24 23:19:34.548 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-24 23:19:34.551 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-24 23:19:34.551 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.

@@ -1,0 +1,40 @@
+2022-12-15 18:38:30.572 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-15 18:38:30.575 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-15 18:38:30.575 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-15 20:52:03.604 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-15 20:52:03.607 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-15 20:52:03.608 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-15 21:21:30.449 +01:00 [ERR] Stats over capped: First: C0B9A9FC3D69F480 - Last: C380BAE2411D53F8 - Size (bytes): 200147288531885944 Total Stats: 25018411066485743
+2022-12-15 21:35:11.157 +01:00 [ERR] Something wrong we parse 456 when expect 28
+2022-12-15 21:39:53.873 +01:00 [ERR] Something wrong we parse 126 when expect 53
+2022-12-15 21:41:21.844 +01:00 [ERR] Something wrong we parse 113 when expect 39
+2022-12-15 21:44:03.900 +01:00 [ERR] Something wrong we parse 120 when expect 45
+2022-12-15 21:55:21.961 +01:00 [ERR] Something wrong we parse 2884 when expect 716
+2022-12-15 21:56:23.392 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-15 21:56:29.648 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-15 22:07:28.171 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-15 22:07:28.176 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-15 22:07:28.176 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-15 22:38:09.359 +01:00 [ERR] Something wrong we parse 143 when expect 28
+2022-12-15 22:38:51.476 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-15 22:39:09.534 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-15 22:39:44.170 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-15 22:42:37.873 +01:00 [ERR] Something wrong we parse 52 when expect 18
+2022-12-15 22:47:58.822 +01:00 [ERR] Something wrong we parse 63 when expect 28
+2022-12-15 22:55:26.188 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-15 23:16:33.692 +01:00 [ERR] Something wrong we parse 138 when expect 28

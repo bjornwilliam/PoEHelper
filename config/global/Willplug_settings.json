@@ -5,9 +5,12 @@
     "Value": 113
   },
   "TestKey1": {
-    "Value": 114
+    "Value": 81
   },
   "TestKey2": {
     "Value": 115
+  },
+  "CharacterList": {
+    "Value": "char2"
   }
 }

@@ -1,0 +1,39 @@
+2022-12-19 20:08:00.528 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2022-12-19 20:08:00.532 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2022-12-19 20:08:00.532 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2022-12-19 20:08:33.776 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:08:45.706 +01:00 [ERR] Stats over capped: First: 2DA4968587A19685 - Last: 81C5AD0122A69685 - Size (bytes): 6062151293554982912 Total Stats: 757768911694372864
+2022-12-19 20:12:04.720 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:24:03.884 +01:00 [ERR] Something wrong we parse 229 when expect 106
+2022-12-19 20:25:32.254 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:25:36.707 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:34:02.538 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:40:25.993 +01:00 [ERR] Stats over capped: First: 200074006F006E - Last: 45002000650062 - Size (bytes): 10414213360386036 Total Stats: 1301776670048254
+2022-12-19 20:44:38.007 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-19 20:44:47.757 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:45:38.290 +01:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at IconsBuilder.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2022-12-19 20:45:43.217 +01:00 [ERR] Stats over capped: First: 23 - Last: 2500000919 - Size (bytes): 158913792246 Total Stats: 19864224030
+2022-12-19 20:47:28.286 +01:00 [ERR] Something wrong we parse 3704 when expect 464
+2022-12-19 21:07:45.849 +01:00 [ERR] Something wrong we parse 98 when expect 25
+2022-12-19 21:15:09.252 +01:00 [ERR] Something wrong we parse 105 when expect 35

@@ -1,0 +1,844 @@
+2022-12-17 00:05:28.704 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 00:05:28.712 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 00:06:31.813 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 00:06:31.818 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 00:10:34.278 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Armory #		Text: Armourer's Strongbox #		Render Name: Armourer's Strongbox
+2022-12-17 00:10:34.286 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 00:10:34.980 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 00:10:34.985 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 00:10:34.985 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 00:19:17.955 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 00:19:17.959 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 00:19:17.959 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 00:19:17.959 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 00:20:46.526 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Artisan #		Text: Artisan's Strongbox #		Render Name: Artisan's Strongbox
+2022-12-17 00:20:46.530 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 00:20:46.530 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 00:25:47.416 +01:00 [INF] =============== Close hud at 17.12.2022 00:25:47 ===============
+2022-12-17 11:14:21.828 +01:00 [INF] =============== Start hud at 17.12.2022 11:14:21 ===============
+2022-12-17 11:14:21.945 +01:00 [INF] PerfTimer =-> Create new offsets (86,3869 ms) Thread #[1]
+2022-12-17 11:14:22.997 +01:00 [INF] PerfTimer =-> Load manual fonts (0,055 ms) Thread #[1]
+2022-12-17 11:14:22.997 +01:00 [INF] PerfTimer =-> DX11 Load (0,9827 ms) Thread #[1]
+2022-12-17 11:14:24.095 +01:00 [INF] PerfTimer =-> Load files from memory (87,3922 ms) Thread #[1]
+2022-12-17 11:14:26.112 +01:00 [INF] PerfTimer =-> Preload stats and mods (2016,6623 ms) Thread #[21]
+2022-12-17 11:14:27.625 +01:00 [INF] PerfTimer =-> Plugin loader (3494,6636 ms) Thread #[1]
+2022-12-17 11:14:27.854 +01:00 [INF] Pattern: Game State -> : Time: 11,3695 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 11:14:27.855 +01:00 [INF] Pattern: Area change -> : Time: 21,1725 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 11:14:27.855 +01:00 [INF] Pattern: BlackBarSize -> : Time: 26,1098 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 11:14:27.855 +01:00 [INF] Pattern: File Root -> : Time: 26,8723 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 11:14:27.855 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 90,692 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 11:14:27.855 +01:00 [INF] AdvancedTooltip loaded in 82,4758 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] AdvancedUberLabLayout loaded in 56,1773 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] AutoOpen loaded in 46,3936 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] AutoQuit loaded in 44,3523 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 73,9415 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 73,9415 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] BuffUtil loaded in 68,4653 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] DelveWalls loaded in 27,5237 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] DevTree loaded in 71,2648 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] DPSMeter loaded in 39,3959 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] EliteBar loaded in 50,6705 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] FullRareSetManager loaded in 95,6917 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] HealthBars loaded in 69,5047 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] HeistIcons.Main loaded in 43,8569 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] HighlightedItems loaded in 66,9864 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] IconsBuilder loaded in 116,286 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] KillCounter loaded in 49,0292 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MapsExchange loaded in 68,633 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MineDetonator loaded in 46,9492 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MinimapIcons loaded in 106,6579 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MiscInformation loaded in 46,7236 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] PassiveSkillTreePlanter loaded in 56,3927 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Pickit loaded in 187,5358 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Willplug loaded in 64,1629 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] PreloadAlert loaded in 154,9261 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Radar loaded in 77,7106 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Skill_DPS.Core loaded in 33,3955 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Stashie loaded in 105,139 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] XPBar loaded in 30,1148 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MiscInformation -> Initialise time: 1,1668 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] PreloadAlert -> Initialise time: 0,595 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] HealthBars -> Initialise time: 6,666 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] MinimapIcons -> Initialise time: 0,0133 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] HighlightedItems -> Initialise time: 14,1246 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] IconsBuilder -> Initialise time: 19,2105 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Radar -> Initialise time: 0,0047 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 52,6851 ms.
+2022-12-17 11:14:27.855 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 196,0311 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 11:14:28.014 +01:00 [INF] PerfTimer =-> Load files from memory (144,4087 ms) Thread #[8]
+2022-12-17 11:14:28.116 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 99,9496 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 11:14:28.851 +01:00 [INF] PerfTimer =-> Preload stats and mods (837,3143 ms) Thread #[18]
+2022-12-17 11:14:29.095 +01:00 [INF] GetAllFiles loaded in 85ms
+2022-12-17 11:14:32.738 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 11:14:33.015 +01:00 [INF] GetAllFiles loaded in 143ms
+2022-12-17 11:14:34.631 +01:00 [INF] HUD loaded in 6142,2503 ms.
+2022-12-17 11:14:35.506 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 11:19:46.579 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 11:19:46.588 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 11:21:05.162 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 11:21:05.167 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 11:40:03.363 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 11:40:03.367 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 11:42:47.242 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 11:42:47.246 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 11:55:49.729 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 11:55:49.734 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 11:55:50.808 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 11:55:50.812 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 11:55:50.812 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 11:57:28.919 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 11:57:28.923 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:03:13.318 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:03:13.339 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:03:13.339 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 12:03:13.339 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 12:05:02.058 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:05:02.062 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:07:16.489 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 12:07:16.496 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 12:07:20.000 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:07:20.008 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:18:59.656 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:18:59.661 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:23:53.987 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:23:53.995 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:23:53.995 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 12:26:10.672 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:26:10.679 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:26:28.756 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arcanist #		Text: Arcanist's Strongbox #		Render Name: Arcanist's Strongbox
+2022-12-17 12:26:28.761 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:26:35.759 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arcanist #		Text: Arcanist's Strongbox #		Render Name: Arcanist's Strongbox
+2022-12-17 12:26:35.764 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:26:35.764 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 12:26:35.764 +01:00 [INF] Mods: ChestIgnite
+2022-12-17 12:26:35.764 +01:00 [INF] Mods: ChestReviveMonsters
+2022-12-17 12:26:35.764 +01:00 [INF] Mods: ChestExtraNormalItems
+2022-12-17 12:26:35.764 +01:00 [INF] Mods: ChestItemLevel2
+2022-12-17 12:26:35.764 +01:00 [INF] Mods: ChestExplosion
+2022-12-17 12:27:45.547 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:27:45.551 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:35:16.202 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 12:35:16.206 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:39:54.744 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:39:54.748 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 12:39:54.748 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 12:39:54.748 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 12:41:49.917 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:41:49.921 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 12:44:51.440 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 12:44:51.445 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:03:54.253 +01:00 [INF] WTF ExileCore.Core
+2022-12-17 13:11:52.515 +01:00 [INF] Dev Tree -> Initialise time: 20,6246 ms.
+2022-12-17 13:19:50.359 +01:00 [INF] =============== Close hud at 17.12.2022 13:19:50 ===============
+2022-12-17 13:20:39.818 +01:00 [INF] =============== Start hud at 17.12.2022 13:20:39 ===============
+2022-12-17 13:20:39.926 +01:00 [INF] PerfTimer =-> Create new offsets (81,6577 ms) Thread #[1]
+2022-12-17 13:20:40.888 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0598 ms) Thread #[1]
+2022-12-17 13:20:40.888 +01:00 [INF] PerfTimer =-> DX11 Load (0,8062 ms) Thread #[1]
+2022-12-17 13:20:41.568 +01:00 [INF] PerfTimer =-> Load files from memory (42,9517 ms) Thread #[1]
+2022-12-17 13:20:43.530 +01:00 [INF] PerfTimer =-> Preload stats and mods (1960,6946 ms) Thread #[10]
+2022-12-17 13:20:44.146 +01:00 [INF] PerfTimer =-> Plugin loader (2548,3756 ms) Thread #[1]
+2022-12-17 13:20:44.300 +01:00 [INF] Pattern: Game State -> : Time: 9,4763 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 13:20:44.300 +01:00 [INF] Pattern: Area change -> : Time: 17,5865 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 13:20:44.300 +01:00 [INF] Pattern: File Root -> : Time: 27,7303 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 13:20:44.300 +01:00 [INF] Pattern: BlackBarSize -> : Time: 27,8437 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 13:20:44.300 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 88,2455 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 13:20:44.301 +01:00 [INF] AdvancedTooltip loaded in 76,8253 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] AdvancedUberLabLayout loaded in 44,7857 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] AutoOpen loaded in 38,5991 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] AutoQuit loaded in 39,1278 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 69,6112 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 69,6112 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] BuffUtil loaded in 67,3036 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] DelveWalls loaded in 13,1253 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] DevTree loaded in 69,7212 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] DPSMeter loaded in 32,642 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] EliteBar loaded in 43,0209 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] FullRareSetManager loaded in 86,1911 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] HealthBars loaded in 86,327 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] HeistIcons.Main loaded in 40,7484 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] HighlightedItems loaded in 39,5113 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] IconsBuilder loaded in 100,0072 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] KillCounter loaded in 31,5555 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] MapsExchange loaded in 58,9639 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] MineDetonator loaded in 38,3586 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] MinimapIcons loaded in 93,9469 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] MiscInformation loaded in 43,7887 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] PassiveSkillTreePlanter loaded in 39,178 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] Pickit loaded in 137,7966 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] Willplug loaded in 53,2419 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] PreloadAlert loaded in 139,2316 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] Radar loaded in 78,9616 ms.
+2022-12-17 13:20:44.301 +01:00 [INF] Skill_DPS.Core loaded in 29,6723 ms.
+2022-12-17 13:20:44.375 +01:00 [INF] Stashie loaded in 104,5329 ms.
+2022-12-17 13:20:44.375 +01:00 [INF] XPBar loaded in 24,8731 ms.
+2022-12-17 13:20:44.375 +01:00 [INF] MiscInformation -> Initialise time: 1,3501 ms.
+2022-12-17 13:20:44.375 +01:00 [INF] PreloadAlert -> Initialise time: 0,4993 ms.
+2022-12-17 13:20:44.385 +01:00 [INF] HealthBars -> Initialise time: 1,4203 ms.
+2022-12-17 13:20:44.386 +01:00 [INF] MinimapIcons -> Initialise time: 0,0161 ms.
+2022-12-17 13:20:44.386 +01:00 [INF] HighlightedItems -> Initialise time: 3,2374 ms.
+2022-12-17 13:20:44.386 +01:00 [INF] IconsBuilder -> Initialise time: 1,6467 ms.
+2022-12-17 13:20:44.386 +01:00 [INF] Radar -> Initialise time: 0,0017 ms.
+2022-12-17 13:20:44.408 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 24,1275 ms.
+2022-12-17 13:20:44.682 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 217,5963 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 13:20:44.802 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 89,3174 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 13:20:46.570 +01:00 [INF] GetAllFiles loaded in 41ms
+2022-12-17 13:20:49.163 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 13:20:51.149 +01:00 [INF] HUD loaded in 4564,686 ms.
+2022-12-17 13:20:52.808 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 13:21:26.771 +01:00 [INF] Willplug -> Initialise time: 7,3402 ms.
+2022-12-17 13:26:28.918 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:26:28.924 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 13:26:28.924 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 13:32:18.327 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:32:18.331 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:32:18.331 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 13:36:05.379 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Artisan #		Text: Artisan's Strongbox #		Render Name: Artisan's Strongbox
+2022-12-17 13:36:05.387 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:37:21.626 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Gemcutter #		Text: Gemcutter's Strongbox #		Render Name: Gemcutter's Strongbox
+2022-12-17 13:37:21.632 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:37:30.412 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:37:30.417 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:40:50.230 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:40:50.235 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:41:39.121 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthGenericChestNoFlag #		Text: GenericChestNoFlag #		Render Name: Hidden Coffer
+2022-12-17 13:42:14.796 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:42:14.800 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:42:14.800 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 13:42:15.461 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:42:15.465 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:42:15.465 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 13:42:17.591 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthTrinketChest #		Text: TrinketChest #		Render Name: Decorative Chest
+2022-12-17 13:43:33.082 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrency #		Text: RewardSilverCurrency #		Render Name: Emperor's Vault
+2022-12-17 13:54:04.634 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:54:04.638 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:54:04.638 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:54:04.638 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:54:05.272 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:54:05.277 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:54:20.084 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Ornate #		Text: Ornate Strongbox #		Render Name: Ornate Strongbox
+2022-12-17 13:54:20.088 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:56:00.599 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 13:56:00.608 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 13:59:51.636 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 13:59:51.642 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 13:59:51.760 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 13:59:51.765 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 14:02:46.275 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 14:02:46.282 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 14:02:46.283 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 14:03:14.035 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 14:03:14.041 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 14:03:15.559 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 14:03:15.565 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 14:03:17.782 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 14:03:17.788 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 14:04:00.700 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 14:05:21.525 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Artisan #		Text: Artisan's Strongbox #		Render Name: Artisan's Strongbox
+2022-12-17 14:05:21.535 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 14:05:21.535 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 14:05:21.535 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 14:06:53.448 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arcanist #		Text: Arcanist's Strongbox #		Render Name: Arcanist's Strongbox
+2022-12-17 14:06:53.456 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 14:06:53.456 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 14:06:53.456 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 14:06:53.456 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 14:09:48.001 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/StrongboxScarab #		Text: Operative's Strongbox #		Render Name: Operative's Strongbox
+2022-12-17 14:09:48.009 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 14:09:48.009 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 14:10:49.935 +01:00 [INF] =============== Close hud at 17.12.2022 14:10:49 ===============
+2022-12-17 15:32:59.388 +01:00 [INF] =============== Start hud at 17.12.2022 15:32:59 ===============
+2022-12-17 15:32:59.423 +01:00 [INF] PerfTimer =-> Create new offsets (3,5136 ms) Thread #[1]
+2022-12-17 15:32:59.696 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0583 ms) Thread #[1]
+2022-12-17 15:32:59.696 +01:00 [INF] PerfTimer =-> DX11 Load (0,8635 ms) Thread #[1]
+2022-12-17 15:33:00.161 +01:00 [INF] PerfTimer =-> Load files from memory (75,8545 ms) Thread #[1]
+2022-12-17 15:33:01.709 +01:00 [INF] PerfTimer =-> Plugin loader (1513,1653 ms) Thread #[1]
+2022-12-17 15:33:01.799 +01:00 [INF] Pattern: Game State -> : Time: 12,8272 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 15:33:01.799 +01:00 [INF] Pattern: Area change -> : Time: 26,8137 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 15:33:01.799 +01:00 [INF] Pattern: BlackBarSize -> : Time: 28,7416 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 15:33:01.799 +01:00 [INF] Pattern: File Root -> : Time: 34,8365 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 15:33:01.799 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 99,5078 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 15:33:01.799 +01:00 [INF] AdvancedTooltip loaded in 22,4352 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] AdvancedUberLabLayout loaded in 7,8913 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] AutoOpen loaded in 6,1562 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] AutoQuit loaded in 4,1677 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 24,7952 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 24,7952 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] BuffUtil loaded in 12,8403 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] DelveWalls loaded in 4,4602 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] DevTree loaded in 5,16 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] DPSMeter loaded in 5,9245 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] EliteBar loaded in 30,3679 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] FullRareSetManager loaded in 10,9187 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] HealthBars loaded in 31,319 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] HeistIcons.Main loaded in 6,1779 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] HighlightedItems loaded in 8,5147 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] IconsBuilder loaded in 16,4774 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] KillCounter loaded in 5,7956 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MapsExchange loaded in 31,4151 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MineDetonator loaded in 3,9091 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MinimapIcons loaded in 77,2945 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MiscInformation loaded in 8,3863 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] PassiveSkillTreePlanter loaded in 10,684 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Pickit loaded in 38,0711 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Willplug loaded in 5,6078 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] PreloadAlert loaded in 68,9539 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Radar loaded in 29,1583 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Skill_DPS.Core loaded in 5,2085 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Stashie loaded in 8,5375 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] XPBar loaded in 3,0607 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MiscInformation -> Initialise time: 1,1622 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] PreloadAlert -> Initialise time: 0,6703 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] HealthBars -> Initialise time: 1,0521 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] MinimapIcons -> Initialise time: 0,0155 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] HighlightedItems -> Initialise time: 2,5311 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] IconsBuilder -> Initialise time: 1,2787 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] Radar -> Initialise time: 0,0016 ms.
+2022-12-17 15:33:01.799 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 20,8592 ms.
+2022-12-17 15:33:01.900 +01:00 [INF] Willplug -> Initialise time: 40,4967 ms.
+2022-12-17 15:33:02.072 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 204,8326 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 15:33:02.146 +01:00 [INF] PerfTimer =-> Preload stats and mods (1984,263 ms) Thread #[21]
+2022-12-17 15:33:02.212 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 99,1674 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 15:33:05.160 +01:00 [INF] GetAllFiles loaded in 74ms
+2022-12-17 15:33:07.013 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 15:33:08.717 +01:00 [INF] HUD loaded in 2390,8559 ms.
+2022-12-17 15:33:10.580 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 15:40:07.038 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 15:40:07.045 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 15:40:07.045 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 15:40:07.045 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 15:40:35.780 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:40:35.784 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:40:35.899 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:40:35.904 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:40:47.857 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-17 15:40:47.862 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 15:40:48.234 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardHarbinger #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-17 15:40:48.239 +01:00 [INF] Stat: MonsterMinimapIcon = 185
+2022-12-17 15:43:04.623 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:43:04.630 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 15:43:04.715 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-17 15:43:04.725 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:43:04.743 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardFossils #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:43:04.747 +01:00 [INF] Stat: MonsterMinimapIcon = 181
+2022-12-17 15:43:04.888 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 15:43:04.900 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 15:43:04.900 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChestEpic #		Text: RewardFragments #		Render Name: <rgb(218,165,32)>{Maraketh War Hoard}
+2022-12-17 15:43:04.900 +01:00 [INF] Stat: MonsterMinimapIcon = 182
+2022-12-17 15:43:04.943 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardBreach #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-17 15:43:04.951 +01:00 [INF] Stat: MonsterMinimapIcon = 177
+2022-12-17 15:44:39.265 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 15:44:39.271 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 15:44:39.271 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 15:44:39.271 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 15:44:39.271 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 15:46:43.055 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 15:46:46.735 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 15:46:50.624 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 15:49:07.349 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 15:49:08.962 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 15:49:19.245 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3Large #		Text: Big Breach #		Render Name: <rgb(166,90,255)>{Esh's Clasped Hand}
+2022-12-17 15:49:22.259 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-17 15:49:22.265 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 15:49:22.265 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:49:22.265 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:49:22.265 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-17 15:49:22.265 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:50:29.682 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-17 15:50:29.691 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 15:50:29.991 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-17 15:50:30.000 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 15:50:59.474 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 15:50:59.481 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 15:50:59.481 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 15:55:18.130 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 15:55:18.138 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 15:55:18.138 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 15:57:07.249 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardFossils #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:57:07.260 +01:00 [INF] Stat: MonsterMinimapIcon = 181
+2022-12-17 15:57:07.331 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 15:57:07.338 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 15:57:07.386 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 15:57:07.393 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-17 15:57:32.230 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 15:57:32.236 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-17 15:57:33.017 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 15:57:33.027 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 15:57:33.176 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardFragments #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 15:57:33.187 +01:00 [INF] Stat: MonsterMinimapIcon = 182
+2022-12-17 16:09:09.444 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 16:09:09.451 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:09:09.451 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:09:11.612 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthRewardDangerGeneric #		Text: RewardDangerGeneric #		Render Name: Labyrinth Trove
+2022-12-17 16:10:09.021 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:10:09.028 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:10:09.028 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:10:09.028 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 16:10:09.028 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 16:10:32.701 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrencyQuality #		Text: RewardDangerCurrencyQuality #		Render Name: Labyrinth Trove
+2022-12-17 16:11:24.016 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:11:24.022 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 16:11:33.359 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:11:33.365 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 16:11:34.215 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:11:34.221 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 16:12:17.146 +01:00 [INF] Chest debug -> CType:Labyrinth Path: Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique3 #		Text: RewardSilverUnique3 #		Render Name: Emperor's Vault
+2022-12-17 16:12:17.152 +01:00 [INF] Stat: ChestDropAdditionalUnqiueItems = 3
+2022-12-17 16:16:00.760 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:16:00.766 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 3
+2022-12-17 16:16:00.766 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:16:00.766 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 16:16:00.766 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 16:17:41.210 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:17:41.216 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 16:17:41.216 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:17:41.216 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 16:26:14.183 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/StrongboxScarab #		Text: Operative's Strongbox #		Render Name: Operative's Strongbox
+2022-12-17 16:26:14.190 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:26:14.190 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:26:14.190 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 16:26:14.190 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 16:26:25.837 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 16:26:25.843 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:26:25.843 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:27:39.727 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Gemcutter #		Text: Gemcutter's Strongbox #		Render Name: Gemcutter's Strongbox
+2022-12-17 16:27:39.733 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:27:39.733 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:28:11.955 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Gemcutter #		Text: Gemcutter's Strongbox #		Render Name: Gemcutter's Strongbox
+2022-12-17 16:28:11.961 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:28:11.961 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:28:27.664 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 16:28:27.671 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:34:22.242 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 16:34:22.248 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 16:34:22.248 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:34:22.248 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 16:35:01.468 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 16:35:01.476 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:35:01.476 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:35:01.476 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:35:01.546 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:35:01.555 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 16:35:01.577 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 16:35:01.587 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-17 16:35:01.610 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 16:35:01.616 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 16:35:05.618 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 16:35:05.625 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:35:17.319 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:35:17.327 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 16:35:49.946 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:35:49.952 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:35:49.952 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 16:35:49.952 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-17 16:35:49.952 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:35:49.952 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 16:36:59.729 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 16:36:59.735 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:37:00.617 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 16:37:00.624 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:37:01.488 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:37:01.493 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 16:37:02.184 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 16:37:02.190 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-17 16:37:02.190 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 16:37:02.190 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 16:37:02.356 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:37:02.365 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 16:37:51.584 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 16:37:51.592 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 16:44:52.052 +01:00 [INF] WTF ExileCore.Core
+2022-12-17 16:52:09.739 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Artisan #		Text: Artisan's Strongbox #		Render Name: Artisan's Strongbox
+2022-12-17 16:52:09.746 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:52:09.747 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:54:11.979 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 16:54:11.985 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 16:54:11.985 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 16:56:28.968 +01:00 [INF] =============== Close hud at 17.12.2022 16:56:28 ===============
+2022-12-17 17:12:59.960 +01:00 [INF] =============== Start hud at 17.12.2022 17:12:59 ===============
+2022-12-17 17:12:59.989 +01:00 [INF] PerfTimer =-> Create new offsets (3,2474 ms) Thread #[1]
+2022-12-17 17:13:00.245 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0618 ms) Thread #[1]
+2022-12-17 17:13:00.245 +01:00 [INF] PerfTimer =-> DX11 Load (0,8209 ms) Thread #[1]
+2022-12-17 17:13:00.849 +01:00 [INF] PerfTimer =-> Load files from memory (70,3481 ms) Thread #[1]
+2022-12-17 17:13:02.345 +01:00 [INF] PerfTimer =-> Plugin loader (1464,4118 ms) Thread #[1]
+2022-12-17 17:13:02.433 +01:00 [INF] Pattern: Game State -> : Time: 9,2794 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 17:13:02.433 +01:00 [INF] Pattern: Area change -> : Time: 17,3758 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 17:13:02.433 +01:00 [INF] Pattern: BlackBarSize -> : Time: 26,037 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 17:13:02.433 +01:00 [INF] Pattern: File Root -> : Time: 27,2356 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 17:13:02.433 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 89,703 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 17:13:02.433 +01:00 [INF] AdvancedTooltip loaded in 21,8857 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] AdvancedUberLabLayout loaded in 12,8304 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] AutoOpen loaded in 13,4433 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] AutoQuit loaded in 5,6353 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 15,8691 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 15,8691 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] BuffUtil loaded in 32,5798 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] DelveWalls loaded in 4,8482 ms.
+2022-12-17 17:13:02.433 +01:00 [INF] DevTree loaded in 5,5914 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] DPSMeter loaded in 5,5625 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] EliteBar loaded in 13,5674 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] FullRareSetManager loaded in 17,1958 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] HealthBars loaded in 23,9972 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] HeistIcons.Main loaded in 6,9056 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] HighlightedItems loaded in 15,0208 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] IconsBuilder loaded in 15,8652 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] KillCounter loaded in 7,4479 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MapsExchange loaded in 15,6097 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MineDetonator loaded in 4,6602 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MinimapIcons loaded in 61,9566 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MiscInformation loaded in 10,7717 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] PassiveSkillTreePlanter loaded in 14,2099 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Pickit loaded in 38,4626 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Willplug loaded in 7,0097 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] PreloadAlert loaded in 61,9689 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Radar loaded in 28,924 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Skill_DPS.Core loaded in 5,1954 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Stashie loaded in 9,3582 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] XPBar loaded in 2,8929 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MiscInformation -> Initialise time: 1,013 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] PreloadAlert -> Initialise time: 0,3804 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] HealthBars -> Initialise time: 0,9266 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] MinimapIcons -> Initialise time: 0,0089 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] HighlightedItems -> Initialise time: 2,6695 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] IconsBuilder -> Initialise time: 1,454 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Radar -> Initialise time: 0,0024 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 11,9793 ms.
+2022-12-17 17:13:02.434 +01:00 [INF] Willplug -> Initialise time: 12,772 ms.
+2022-12-17 17:13:02.584 +01:00 [INF] PerfTimer =-> Preload stats and mods (1733,9661 ms) Thread #[17]
+2022-12-17 17:13:02.783 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 218,3552 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 17:13:03.014 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 111,2349 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 17:13:05.848 +01:00 [INF] GetAllFiles loaded in 68ms
+2022-12-17 17:13:07.369 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 17:13:09.353 +01:00 [INF] HUD loaded in 2450,4523 ms.
+2022-12-17 17:13:11.249 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 17:13:56.104 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 17:13:58.441 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 17:14:10.498 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 17:16:49.390 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 17:16:49.397 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 17:16:49.397 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 17:18:30.425 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 17:18:30.429 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 17:18:30.429 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 17:18:38.993 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 17:18:38.997 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 17:18:39.018 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 17:18:39.026 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 17:18:39.080 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardFossils #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 17:18:39.086 +01:00 [INF] Stat: MonsterMinimapIcon = 181
+2022-12-17 17:18:41.005 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 17:18:41.009 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-17 17:18:41.009 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardFossils #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 17:18:41.009 +01:00 [INF] Stat: MonsterMinimapIcon = 181
+2022-12-17 17:18:41.009 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 17:18:41.009 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 17:18:41.928 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 17:18:41.932 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 17:18:41.932 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 17:18:41.932 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-17 17:20:45.250 +01:00 [INF] =============== Close hud at 17.12.2022 17:20:45 ===============
+2022-12-17 18:18:26.823 +01:00 [INF] =============== Start hud at 17.12.2022 18:18:26 ===============
+2022-12-17 18:18:26.855 +01:00 [INF] PerfTimer =-> Create new offsets (4,3427 ms) Thread #[1]
+2022-12-17 18:18:27.112 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0729 ms) Thread #[1]
+2022-12-17 18:18:27.112 +01:00 [INF] PerfTimer =-> DX11 Load (0,8028 ms) Thread #[1]
+2022-12-17 18:18:27.549 +01:00 [INF] PerfTimer =-> Load files from memory (59,3184 ms) Thread #[1]
+2022-12-17 18:18:29.829 +01:00 [INF] PerfTimer =-> Preload stats and mods (2279,7563 ms) Thread #[9]
+2022-12-17 18:18:30.356 +01:00 [INF] PerfTimer =-> Plugin loader (2775,4366 ms) Thread #[1]
+2022-12-17 18:18:30.426 +01:00 [INF] Pattern: Game State -> : Time: 11,447 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 18:18:30.426 +01:00 [INF] Pattern: Area change -> : Time: 21,0205 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 18:18:30.426 +01:00 [INF] Pattern: BlackBarSize -> : Time: 28,2049 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 18:18:30.426 +01:00 [INF] Pattern: File Root -> : Time: 38,7629 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 18:18:30.426 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 104,1006 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 18:18:30.426 +01:00 [INF] AdvancedTooltip loaded in 21,0483 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] AdvancedUberLabLayout loaded in 7,1868 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] AutoOpen loaded in 6,0017 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] AutoQuit loaded in 4,1471 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 38,5973 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 38,5973 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] BuffUtil loaded in 30,8007 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] DelveWalls loaded in 4,7846 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] DevTree loaded in 5,3032 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] DPSMeter loaded in 6,3389 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] EliteBar loaded in 16,1914 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] FullRareSetManager loaded in 17,3854 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] HealthBars loaded in 22,2378 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] HeistIcons.Main loaded in 11,1716 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] HighlightedItems loaded in 7,4986 ms.
+2022-12-17 18:18:30.426 +01:00 [INF] IconsBuilder loaded in 15,0947 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] KillCounter loaded in 5,7799 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MapsExchange loaded in 24,989 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MineDetonator loaded in 4,203 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MinimapIcons loaded in 83,8467 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MiscInformation loaded in 10,0161 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] PassiveSkillTreePlanter loaded in 10,604 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Pickit loaded in 37,0382 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Willplug loaded in 6,3785 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] PreloadAlert loaded in 66,6032 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Radar loaded in 20,8927 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Skill_DPS.Core loaded in 4,4961 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Stashie loaded in 30,7867 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] XPBar loaded in 3,8426 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MiscInformation -> Initialise time: 2,1794 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] PreloadAlert -> Initialise time: 0,7718 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] HealthBars -> Initialise time: 1,1275 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] MinimapIcons -> Initialise time: 0,0087 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] HighlightedItems -> Initialise time: 2,3508 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] IconsBuilder -> Initialise time: 1,3215 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Radar -> Initialise time: 0,0014 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 20,2363 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Willplug -> Initialise time: 19,9136 ms.
+2022-12-17 18:18:30.427 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 223,9301 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 18:18:30.427 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 108,3843 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 18:18:32.552 +01:00 [INF] GetAllFiles loaded in 57ms
+2022-12-17 18:18:35.485 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 18:18:37.361 +01:00 [INF] HUD loaded in 3598,8684 ms.
+2022-12-17 18:18:37.968 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 18:18:46.428 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest2 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:18:54.042 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest2 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:18:57.144 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest2 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:19:13.508 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 18:19:13.516 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 18:19:13.516 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 18:19:13.516 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 18:24:19.423 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 18:24:19.427 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 18:24:19.428 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 18:24:19.428 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 18:28:29.211 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 18:28:29.219 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 18:28:29.219 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 18:28:39.982 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 18:28:39.986 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 18:28:39.986 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 18:28:39.986 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 18:28:39.986 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 18:38:32.834 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:38:38.935 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:38:40.969 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:42:52.422 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:43:01.652 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:43:02.438 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-17 18:43:47.033 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 18:43:47.037 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 18:43:47.037 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 18:43:47.037 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 18:58:10.035 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Large #		Text: Large Strongbox #		Render Name: Large Strongbox
+2022-12-17 18:58:10.040 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 18:58:10.040 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 18:58:10.040 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 18:59:44.541 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Large #		Text: Large Strongbox #		Render Name: Large Strongbox
+2022-12-17 18:59:44.548 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 18:59:44.548 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 18:59:44.548 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 18:59:44.548 +01:00 [INF] Mods: ChestFreeze
+2022-12-17 18:59:44.548 +01:00 [INF] Mods: ChestReviveMonsters
+2022-12-17 18:59:44.548 +01:00 [INF] Mods: ChestSummonSkeletons
+2022-12-17 18:59:44.548 +01:00 [INF] Mods: ChestItemQuality
+2022-12-17 19:01:18.299 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 19:01:18.303 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 19:01:18.303 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 19:01:18.303 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 19:02:02.523 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 19:02:02.528 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 19:02:02.528 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 19:07:34.786 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 19:07:34.792 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 19:07:34.792 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 19:07:57.637 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1Large #		Text: Big Breach #		Render Name: <rgb(166,90,255)>{Xoph's Clasped Hand}
+2022-12-17 19:12:27.262 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 19:12:27.268 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 19:12:27.269 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 19:13:36.405 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 19:13:36.413 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 19:13:36.413 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 19:13:36.413 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 19:14:03.968 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-17 19:14:03.977 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 19:14:03.977 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-17 19:14:03.977 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 19:14:06.962 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 19:14:06.970 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 19:14:06.971 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 19:14:06.971 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 19:14:07.189 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 19:14:07.200 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 19:29:49.664 +01:00 [INF] =============== Close hud at 17.12.2022 19:29:49 ===============
+2022-12-17 19:46:07.324 +01:00 [INF] =============== Start hud at 17.12.2022 19:46:07 ===============
+2022-12-17 19:46:07.354 +01:00 [INF] PerfTimer =-> Create new offsets (3,268 ms) Thread #[1]
+2022-12-17 19:46:07.639 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0593 ms) Thread #[1]
+2022-12-17 19:46:07.639 +01:00 [INF] PerfTimer =-> DX11 Load (0,7973 ms) Thread #[1]
+2022-12-17 19:46:08.045 +01:00 [INF] PerfTimer =-> Load files from memory (51,7937 ms) Thread #[1]
+2022-12-17 19:46:09.526 +01:00 [INF] PerfTimer =-> Plugin loader (1453,8385 ms) Thread #[1]
+2022-12-17 19:46:09.607 +01:00 [INF] Pattern: Game State -> : Time: 16,0137 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 19:46:09.607 +01:00 [INF] Pattern: Area change -> : Time: 17,7916 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 19:46:09.607 +01:00 [INF] Pattern: BlackBarSize -> : Time: 27,2923 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 19:46:09.607 +01:00 [INF] Pattern: File Root -> : Time: 34,2015 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 19:46:09.608 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 90,4126 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 19:46:09.608 +01:00 [INF] AdvancedTooltip loaded in 20,993 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] AdvancedUberLabLayout loaded in 6,9429 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] AutoOpen loaded in 5,7146 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] AutoQuit loaded in 3,5958 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 22,4718 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 22,4718 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] BuffUtil loaded in 13,1587 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] DelveWalls loaded in 4,6306 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] DevTree loaded in 20,8916 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] DPSMeter loaded in 6,0082 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] EliteBar loaded in 14,0619 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] FullRareSetManager loaded in 11,1748 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] HealthBars loaded in 28,5391 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] HeistIcons.Main loaded in 5,4264 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] HighlightedItems loaded in 7,9605 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] IconsBuilder loaded in 20,5251 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] KillCounter loaded in 7,1441 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MapsExchange loaded in 14,3776 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MineDetonator loaded in 3,9177 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MinimapIcons loaded in 62,4897 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MiscInformation loaded in 8,2927 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] PassiveSkillTreePlanter loaded in 9,6114 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Pickit loaded in 35,9931 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Willplug loaded in 57,7535 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] PreloadAlert loaded in 48,8408 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Radar loaded in 22,0718 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Skill_DPS.Core loaded in 4,4849 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Stashie loaded in 15,2765 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] XPBar loaded in 3,8669 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MiscInformation -> Initialise time: 1,1133 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] PreloadAlert -> Initialise time: 0,4283 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] HealthBars -> Initialise time: 1,0907 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] MinimapIcons -> Initialise time: 0,0091 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] HighlightedItems -> Initialise time: 2,663 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] IconsBuilder -> Initialise time: 1,3596 ms.
+2022-12-17 19:46:09.608 +01:00 [INF] Radar -> Initialise time: 0,0018 ms.
+2022-12-17 19:46:09.718 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 12,2822 ms.
+2022-12-17 19:46:09.718 +01:00 [INF] Willplug -> Initialise time: 6,9788 ms.
+2022-12-17 19:46:09.802 +01:00 [INF] PerfTimer =-> Preload stats and mods (1756,117 ms) Thread #[25]
+2022-12-17 19:46:09.955 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 231,891 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 19:46:10.127 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 121,002 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 19:46:13.050 +01:00 [INF] GetAllFiles loaded in 50ms
+2022-12-17 19:46:14.549 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 19:46:16.530 +01:00 [INF] HUD loaded in 2266,7749 ms.
+2022-12-17 19:46:18.407 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 20:00:47.823 +01:00 [INF] =============== Close hud at 17.12.2022 20:00:47 ===============
+2022-12-17 22:56:44.547 +01:00 [INF] =============== Start hud at 17.12.2022 22:56:44 ===============
+2022-12-17 22:56:44.653 +01:00 [INF] PerfTimer =-> Create new offsets (79,2728 ms) Thread #[1]
+2022-12-17 22:56:45.591 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0599 ms) Thread #[1]
+2022-12-17 22:56:45.592 +01:00 [INF] PerfTimer =-> DX11 Load (0,7984 ms) Thread #[1]
+2022-12-17 22:56:46.276 +01:00 [INF] PerfTimer =-> Load files from memory (55,7223 ms) Thread #[1]
+2022-12-17 22:56:48.108 +01:00 [INF] PerfTimer =-> Preload stats and mods (1831,2483 ms) Thread #[22]
+2022-12-17 22:56:49.292 +01:00 [INF] PerfTimer =-> Plugin loader (2983,1642 ms) Thread #[1]
+2022-12-17 22:56:49.436 +01:00 [INF] Pattern: Game State -> : Time: 9,4105 ms. Offset:[1164963] Started searching offset with:0
+2022-12-17 22:56:49.436 +01:00 [INF] Pattern: Area change -> : Time: 18,2097 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-17 22:56:49.436 +01:00 [INF] Pattern: BlackBarSize -> : Time: 26,1187 ms. Offset:[3058741] Started searching offset with:0
+2022-12-17 22:56:49.436 +01:00 [INF] Pattern: File Root -> : Time: 27,8063 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-17 22:56:49.436 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 89,1206 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-17 22:56:49.436 +01:00 [INF] AdvancedTooltip loaded in 71,9914 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] AdvancedUberLabLayout loaded in 58,4242 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] AutoOpen loaded in 40,5686 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] AutoQuit loaded in 33,8675 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 63,7839 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 63,7839 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] BuffUtil loaded in 73,6681 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] DelveWalls loaded in 38,0534 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] DevTree loaded in 74,1769 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] DPSMeter loaded in 34,1264 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] EliteBar loaded in 49,6262 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] FullRareSetManager loaded in 80,8545 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] HealthBars loaded in 79,664 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] HeistIcons.Main loaded in 51,2155 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] HighlightedItems loaded in 43,6257 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] IconsBuilder loaded in 94,8379 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] KillCounter loaded in 34,5829 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MapsExchange loaded in 56,9798 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MineDetonator loaded in 34,4247 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MinimapIcons loaded in 99,7548 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MiscInformation loaded in 54,1875 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] PassiveSkillTreePlanter loaded in 42,2587 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Pickit loaded in 123,8325 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Willplug loaded in 55,3407 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] PreloadAlert loaded in 133,2104 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Radar loaded in 84,934 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Skill_DPS.Core loaded in 38,4944 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Stashie loaded in 89,2518 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] XPBar loaded in 27,5449 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MiscInformation -> Initialise time: 1,8448 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] PreloadAlert -> Initialise time: 1,018 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] HealthBars -> Initialise time: 5,2774 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] MinimapIcons -> Initialise time: 0,011 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] HighlightedItems -> Initialise time: 3,0952 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] IconsBuilder -> Initialise time: 5,5536 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Radar -> Initialise time: 0,002 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 57,2985 ms.
+2022-12-17 22:56:49.436 +01:00 [INF] Willplug -> Initialise time: 15,2648 ms.
+2022-12-17 22:56:49.505 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 198,5035 ms. Offset:[19835677] Started searching offset with:0
+2022-12-17 22:56:49.573 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 94,6342 ms. Offset:[9767686] Started searching offset with:0
+2022-12-17 22:56:51.750 +01:00 [INF] GetAllFiles loaded in 54ms
+2022-12-17 22:56:54.572 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-17 22:56:56.298 +01:00 [INF] HUD loaded in 4968,0183 ms.
+2022-12-17 22:56:57.557 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-17 22:58:14.189 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 22:58:14.202 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 22:58:14.255 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 22:58:14.260 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 22:58:14.260 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 22:58:14.260 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 22:58:14.332 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardWeapons #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 22:58:14.347 +01:00 [INF] Stat: MonsterMinimapIcon = 194
+2022-12-17 22:58:14.347 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-17 22:58:14.348 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 22:58:31.392 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 22:58:31.397 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 22:59:25.810 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Jeweller #		Text: Jeweller's Strongbox #		Render Name: Jeweller's Strongbox
+2022-12-17 22:59:25.815 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 22:59:25.815 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 22:59:25.815 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 23:06:43.861 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:06:43.865 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 3
+2022-12-17 23:06:43.865 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:06:43.865 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 23:08:30.874 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:08:30.878 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 23:17:25.854 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:17:25.863 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 3
+2022-12-17 23:17:25.863 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:17:25.863 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 23:20:28.631 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:20:28.637 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 23:20:28.637 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 23:20:40.159 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:20:40.165 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 23:20:40.165 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:20:40.165 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-17 23:20:40.165 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 23:22:30.153 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:22:30.161 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 23:22:30.161 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:22:30.161 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 23:22:30.161 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 23:23:17.767 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-17 23:23:17.774 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 23:23:17.808 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-17 23:23:17.815 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-17 23:23:21.497 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:23:21.506 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 23:23:21.506 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:23:21.506 +01:00 [INF] Stat: ChestDisplayIceNova = 1
+2022-12-17 23:23:21.506 +01:00 [INF] Stat: ChestDisplayFreeze = 1
+2022-12-17 23:23:22.802 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 23:23:22.815 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 23:23:24.005 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 23:23:24.013 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-17 23:36:24.901 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:36:24.907 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 23:36:24.907 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:36:24.907 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-17 23:38:57.588 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-17 23:38:57.594 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-17 23:38:57.594 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:39:37.443 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3Large #		Text: Big Breach #		Render Name: <rgb(166,90,255)>{Esh's Clasped Hand}
+2022-12-17 23:52:53.102 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-17 23:52:53.110 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-17 23:55:49.988 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Large #		Text: Large Strongbox #		Render Name: Large Strongbox
+2022-12-17 23:55:49.994 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 1
+2022-12-17 23:55:49.994 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-17 23:56:48.197 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Arsenal #		Text: Blacksmith's Strongbox #		Render Name: Blacksmith's Strongbox
+2022-12-17 23:56:48.203 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2

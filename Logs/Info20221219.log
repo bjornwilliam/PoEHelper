@@ -1,0 +1,161 @@
+2022-12-19 20:07:46.381 +01:00 [INF] =============== Start hud at 19.12.2022 20:07:46 ===============
+2022-12-19 20:07:46.488 +01:00 [INF] PerfTimer =-> Create new offsets (78,8489 ms) Thread #[1]
+2022-12-19 20:07:47.387 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0577 ms) Thread #[1]
+2022-12-19 20:07:47.387 +01:00 [INF] PerfTimer =-> DX11 Load (0,8412 ms) Thread #[1]
+2022-12-19 20:07:48.101 +01:00 [INF] PerfTimer =-> Load files from memory (44,6418 ms) Thread #[1]
+2022-12-19 20:07:50.390 +01:00 [INF] PerfTimer =-> Preload stats and mods (2288,8524 ms) Thread #[25]
+2022-12-19 20:07:51.220 +01:00 [INF] PerfTimer =-> Plugin loader (3092,0933 ms) Thread #[1]
+2022-12-19 20:07:51.376 +01:00 [INF] Pattern: Game State -> : Time: 11,7764 ms. Offset:[1164963] Started searching offset with:0
+2022-12-19 20:07:51.376 +01:00 [INF] Pattern: Area change -> : Time: 27,4746 ms. Offset:[9276779] Started searching offset with:6881280
+2022-12-19 20:07:51.376 +01:00 [INF] Pattern: BlackBarSize -> : Time: 33,0314 ms. Offset:[3058741] Started searching offset with:0
+2022-12-19 20:07:51.376 +01:00 [INF] Pattern: File Root -> : Time: 36,5846 ms. Offset:[23210249] Started searching offset with:19726336
+2022-12-19 20:07:51.376 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 92,0898 ms. Offset:[13203055] Started searching offset with:600000
+2022-12-19 20:07:51.376 +01:00 [INF] AdvancedTooltip loaded in 80,4298 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] AdvancedUberLabLayout loaded in 47,5642 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] AutoOpen loaded in 43,225 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] AutoQuit loaded in 37,5272 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 68,8275 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 68,8275 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] BuffUtil loaded in 66,3495 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] DelveWalls loaded in 52,5423 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] DevTree loaded in 104,9218 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] DPSMeter loaded in 41,4528 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] EliteBar loaded in 71,6339 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] FullRareSetManager loaded in 124,8234 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] HealthBars loaded in 145,8159 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] HeistIcons.Main loaded in 58,8296 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] HighlightedItems loaded in 91,2977 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] IconsBuilder loaded in 113,9863 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] KillCounter loaded in 49,713 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] MapsExchange loaded in 69,7742 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] MineDetonator loaded in 36,7792 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] MinimapIcons loaded in 144,6185 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] MiscInformation loaded in 58,5581 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] PassiveSkillTreePlanter loaded in 50,5958 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] Pickit loaded in 128,2454 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] Willplug loaded in 73,4032 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] PreloadAlert loaded in 197,6652 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] Radar loaded in 114,3372 ms.
+2022-12-19 20:07:51.376 +01:00 [INF] Skill_DPS.Core loaded in 38,964 ms.
+2022-12-19 20:07:51.409 +01:00 [INF] Stashie loaded in 113,2877 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] XPBar loaded in 34,1908 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] MiscInformation -> Initialise time: 1,5485 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] PreloadAlert -> Initialise time: 0,5963 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] HealthBars -> Initialise time: 10,4802 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] MinimapIcons -> Initialise time: 0,0129 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] HighlightedItems -> Initialise time: 4,4288 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] IconsBuilder -> Initialise time: 10,5233 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] Radar -> Initialise time: 0,0022 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 54,4231 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] Willplug -> Initialise time: 21,4422 ms.
+2022-12-19 20:07:52.338 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 238,4852 ms. Offset:[19835677] Started searching offset with:0
+2022-12-19 20:07:52.338 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 108,8613 ms. Offset:[9767686] Started searching offset with:0
+2022-12-19 20:07:53.100 +01:00 [INF] GetAllFiles loaded in 43ms
+2022-12-19 20:07:56.240 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2022-12-19 20:07:58.231 +01:00 [INF] HUD loaded in 5089,8406 ms.
+2022-12-19 20:07:59.734 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2022-12-19 20:08:49.002 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:08:49.013 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:08:49.121 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-19 20:08:49.127 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-19 20:08:54.995 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-19 20:08:55.002 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:09:55.464 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-19 20:09:57.972 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1Large #		Text: Big Breach #		Render Name: <rgb(166,90,255)>{Xoph's Clasped Hand}
+2022-12-19 20:12:01.732 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardUniques #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-19 20:12:01.741 +01:00 [INF] Stat: MonsterMinimapIcon = 193
+2022-12-19 20:12:01.879 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:12:01.890 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:12:01.953 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-19 20:12:01.961 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:12:03.415 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:12:03.422 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:12:06.744 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-19 20:12:21.128 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-19 20:12:34.314 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest3 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-19 20:19:22.973 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-19 20:19:22.979 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:19:23.089 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-19 20:19:23.096 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:20:02.189 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardFossils #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-19 20:20:02.195 +01:00 [INF] Stat: MonsterMinimapIcon = 181
+2022-12-19 20:20:02.895 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Eternal War Hoard}
+2022-12-19 20:20:02.902 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-19 20:20:02.903 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-19 20:20:02.903 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:20:02.903 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-19 20:20:02.903 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:21:01.561 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-19 20:21:01.567 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:21:01.567 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:21:01.567 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:21:01.579 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardWeapons #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:21:01.579 +01:00 [INF] Stat: MonsterMinimapIcon = 194
+2022-12-19 20:21:01.915 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:21:01.924 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:22:21.450 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest2 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2022-12-19 20:25:47.605 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardWeapons #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-19 20:25:47.614 +01:00 [INF] Stat: MonsterMinimapIcon = 194
+2022-12-19 20:25:47.698 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:25:47.705 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:25:47.705 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/EternalEmpireChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Eternal Chest}
+2022-12-19 20:25:47.705 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:26:11.546 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:26:11.552 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:26:11.553 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChestEpic #		Text: RewardDivinationCards #		Render Name: <rgb(218,165,32)>{Karui War Hoard}
+2022-12-19 20:26:11.553 +01:00 [INF] Stat: MonsterMinimapIcon = 179
+2022-12-19 20:26:18.887 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/KaruiChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Karui Chest}
+2022-12-19 20:26:18.893 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:27:05.456 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-19 20:27:05.462 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 2
+2022-12-19 20:27:05.462 +01:00 [INF] Stat: ChestPlayWarningSound = 1
+2022-12-19 20:27:05.462 +01:00 [INF] Stat: NumberOfMonstersToSummon = 3
+2022-12-19 20:30:11.508 +01:00 [INF] Chest debug -> CType:Strongbox Path: Metadata/Chests/StrongBoxes/Strongbox #		Text: Strongbox #		Render Name: Strongbox
+2022-12-19 20:30:11.514 +01:00 [INF] Stat: ChestDelayDropsUntilDaemonsFinish = 3
+2022-12-19 20:30:11.514 +01:00 [INF] Stat: ChestDisplaySummonsSkeletons = 1
+2022-12-19 20:30:33.982 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Maraketh War Hoard}
+2022-12-19 20:30:33.989 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:30:34.271 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardBreach #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-19 20:30:34.279 +01:00 [INF] Stat: MonsterMinimapIcon = 177
+2022-12-19 20:30:44.234 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-19 20:30:44.242 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:34:29.441 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Maraketh War Hoard}
+2022-12-19 20:34:29.450 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:34:29.569 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-19 20:34:29.576 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:34:29.721 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardAbyss #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-19 20:34:29.729 +01:00 [INF] Stat: MonsterMinimapIcon = 174
+2022-12-19 20:34:29.729 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/MarakethChest #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Maraketh Chest}
+2022-12-19 20:34:29.741 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:34:45.532 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:34:45.539 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-19 20:34:45.540 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardWeapons #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:34:45.540 +01:00 [INF] Stat: MonsterMinimapIcon = 194
+2022-12-19 20:34:46.041 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-19 20:34:46.050 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:40:26.115 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-19 20:40:26.122 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-19 20:40:26.165 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-19 20:40:26.172 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:40:26.172 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardJewellery #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-19 20:40:26.172 +01:00 [INF] Stat: MonsterMinimapIcon = 192
+2022-12-19 20:40:29.420 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:40:29.429 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:40:31.370 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChestEpic #		Text: RewardWeaponEnchants #		Render Name: <rgb(218,165,32)>{Vaal War Hoard}
+2022-12-19 20:40:31.376 +01:00 [INF] Stat: MonsterMinimapIcon = 195
+2022-12-19 20:45:35.126 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChestEpic #		Text: RewardCurrency #		Render Name: <rgb(218,165,32)>{Templar War Hoard}
+2022-12-19 20:45:35.132 +01:00 [INF] Stat: MonsterMinimapIcon = 178
+2022-12-19 20:45:35.133 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:45:35.133 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:45:35.249 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-19 20:45:35.255 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:45:35.255 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:45:35.255 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 20:45:35.310 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/TemplarChest #		Text: RewardArmour #		Render Name: <rgb(218,165,32)>{Templar Chest}
+2022-12-19 20:45:35.318 +01:00 [INF] Stat: MonsterMinimapIcon = 175
+2022-12-19 20:46:05.250 +01:00 [INF] Chest debug -> CType:Legion Path: Metadata/Chests/LegionChests/VaalChest #		Text: RewardGenericItems #		Render Name: <rgb(218,165,32)>{Vaal Chest}
+2022-12-19 20:46:05.257 +01:00 [INF] Stat: MonsterMinimapIcon = 184
+2022-12-19 21:06:05.485 +01:00 [INF] WTF ExileCore.Shared.Runner
+2022-12-19 21:22:18.670 +01:00 [INF] Game not found
+2022-12-19 21:22:20.674 +01:00 [INF] Game not found
+2022-12-19 21:22:21.396 +01:00 [INF] =============== Close hud at 19.12.2022 21:22:21 ===============
