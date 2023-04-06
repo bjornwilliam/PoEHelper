@@ -4,9 +4,6 @@
   "BloodRageKey": {
     "Value": 69
   },
-  "BloodRageConnectedSkill": {
-    "Value": 1
-  },
   "BloodRageMaxHP": {
     "Value": 100
   },
@@ -17,18 +14,12 @@
   "SteelSkinKey": {
     "Value": 87
   },
-  "SteelSkinConnectedSkill": {
-    "Value": 1
-  },
   "SteelSkinMaxHP": {
     "Value": 90
   },
   "ImmortalCall": false,
   "ImmortalCallKey": {
     "Value": 84
-  },
-  "ImmortalCallConnectedSkill": {
-    "Value": 1
   },
   "ImmortalCallMaxHP": {
     "Value": 50
@@ -37,18 +28,12 @@
   "MoltenShellKey": {
     "Value": 81
   },
-  "MoltenShellConnectedSkill": {
-    "Value": 1
-  },
   "MoltenShellMaxHP": {
     "Value": 50
   },
   "PhaseRun": false,
   "PhaseRunKey": {
     "Value": 82
-  },
-  "PhaseRunConnectedSkill": {
-    "Value": 1
   },
   "PhaseRunMaxHP": {
     "Value": 90
@@ -63,15 +48,38 @@
   "WitheringStepKey": {
     "Value": 82
   },
-  "WitheringStepConnectedSkill": {
-    "Value": 1
-  },
   "WitheringStepMaxHP": {
     "Value": 90
   },
   "WitheringStepMinMoveTime": {
     "Value": 0
   },
+  "Berserk": false,
+  "BerserkKey": {
+    "Value": 82
+  },
+  "BerserkMinRage": {
+    "Value": 5
+  },
+  "BerserkNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "BerserkUseOnUniqueBoss": true,
+  "Warcry": false,
+  "WarcryKey": {
+    "Value": 82
+  },
+  "WarCryMinRage": {
+    "Value": 0
+  },
+  "WarCryMaxRage": {
+    "Value": 24
+  },
+  "WarcryNearbyEnemiesCount": {
+    "Value": 1
+  },
+  "WarcryUseOnUniqueBoss": true,
+  "WarcryUseAlways": false,
   "BladeFlurry": false,
   "BladeFlurryMinCharges": {
     "Value": 6

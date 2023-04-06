@@ -1,0 +1,304 @@
+2023-01-08 12:35:06.052 +01:00 [INF] =============== Start hud at 08.01.2023 12:35:06 ===============
+2023-01-08 12:35:06.082 +01:00 [INF] PerfTimer =-> Create new offsets (3,191 ms) Thread #[1]
+2023-01-08 12:35:06.410 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0556 ms) Thread #[1]
+2023-01-08 12:35:06.410 +01:00 [INF] PerfTimer =-> DX11 Load (0,7949 ms) Thread #[1]
+2023-01-08 12:35:06.889 +01:00 [INF] PerfTimer =-> Load files from memory (52,8206 ms) Thread #[1]
+2023-01-08 12:35:06.984 +01:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:06.988 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:06.988 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.015 +01:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.144 +01:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.190 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.201 +01:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.236 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.236 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.236 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.319 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.319 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.319 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.319 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.319 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.423 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.424 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.424 +01:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:07.582 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:35:09.058 +01:00 [INF] PerfTimer =-> Preload stats and mods (2168,5757 ms) Thread #[11]
+2023-01-08 12:35:09.153 +01:00 [INF] PerfTimer =-> Plugin loader (2237,7725 ms) Thread #[1]
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Game State -> : Time: 9,4891 ms. Offset:[1167827] Started searching offset with:0
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Area change -> : Time: 18,0577 ms. Offset:[9290651] Started searching offset with:6881280
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: File Root -> : Time: 27,5939 ms. Offset:[23261817] Started searching offset with:19726336
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: BlackBarSize -> : Time: 28,5829 ms. Offset:[3061397] Started searching offset with:0
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 82,6588 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 101,5608 ms. Offset:[13223375] Started searching offset with:600000
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 167,7374 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 12:35:09.222 +01:00 [INF] AdvancedTooltip loaded in 29,5194 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] AdvancedUberLabLayout loaded in 7,7705 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] AutoOpen loaded in 6,4198 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] AutoQuit loaded in 4,3353 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 15,4424 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 15,4424 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] BuffUtil loaded in 74,5552 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] DelveWalls loaded in 7,1122 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] DevTree loaded in 6,2338 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] DPSMeter loaded in 7,023 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] EliteBar loaded in 15,5522 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] FullRareSetManager loaded in 18,7095 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] HealthBars loaded in 30,7744 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] HeistIcons.Main loaded in 6,3871 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] HighlightedItems loaded in 8,4941 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] IconsBuilder loaded in 16,3755 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] KillCounter loaded in 6,2133 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MapsExchange loaded in 23,1607 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MineDetonator loaded in 5,4763 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MinimapIcons loaded in 49,3776 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MiscInformation loaded in 9,3075 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] PassiveSkillTreePlanter loaded in 20,1724 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Pickit loaded in 103,1251 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Willplug loaded in 50,8997 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] PreloadAlert loaded in 62,7817 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Radar loaded in 22,3484 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Skill_DPS.Core loaded in 5,909 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Stashie loaded in 15,8412 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] XPBar loaded in 3,5707 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MiscInformation -> Initialise time: 0,9886 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] PreloadAlert -> Initialise time: 0,493 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] HealthBars -> Initialise time: 0,8577 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MinimapIcons -> Initialise time: 0,0083 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] HighlightedItems -> Initialise time: 2,331 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] IconsBuilder -> Initialise time: 11,0112 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] MineDetonator -> Initialise time: 0,0023 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Radar -> Initialise time: 0,0022 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 35,5401 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Willplug -> Initialise time: 6,3587 ms.
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 204,6526 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 12:35:09.222 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 89,5535 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 12:35:11.889 +01:00 [INF] GetAllFiles loaded in 51ms
+2023-01-08 12:35:14.166 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2023-01-08 12:35:16.165 +01:00 [INF] HUD loaded in 3219,5143 ms.
+2023-01-08 12:35:17.326 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2023-01-08 12:35:17.643 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2023-01-08 12:35:17.647 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2023-01-08 12:35:17.647 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2023-01-08 12:35:39.467 +01:00 [INF] =============== Close hud at 08.01.2023 12:35:39 ===============
+2023-01-08 12:37:17.791 +01:00 [INF] =============== Start hud at 08.01.2023 12:37:17 ===============
+2023-01-08 12:37:17.822 +01:00 [INF] PerfTimer =-> Create new offsets (3,7497 ms) Thread #[1]
+2023-01-08 12:37:18.107 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0583 ms) Thread #[1]
+2023-01-08 12:37:18.107 +01:00 [INF] PerfTimer =-> DX11 Load (0,7541 ms) Thread #[1]
+2023-01-08 12:37:18.685 +01:00 [INF] PerfTimer =-> Load files from memory (54,6486 ms) Thread #[1]
+2023-01-08 12:37:18.787 +01:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.791 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.791 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.820 +01:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.905 +01:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.957 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:18.967 +01:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.000 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.000 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.001 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.094 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.094 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.094 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.094 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.094 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.124 +01:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:19.256 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 12:37:20.737 +01:00 [INF] PerfTimer =-> Plugin loader (2021,2278 ms) Thread #[1]
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: Game State -> : Time: 13,5135 ms. Offset:[1167827] Started searching offset with:0
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: Area change -> : Time: 17,7556 ms. Offset:[9290651] Started searching offset with:6881280
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: File Root -> : Time: 36,7399 ms. Offset:[23261817] Started searching offset with:19726336
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: BlackBarSize -> : Time: 36,9596 ms. Offset:[3061397] Started searching offset with:0
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 90,7208 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 113,908 ms. Offset:[13223375] Started searching offset with:600000
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 218,8807 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 12:37:20.805 +01:00 [INF] AdvancedTooltip loaded in 30,9958 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] AdvancedUberLabLayout loaded in 7,5444 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] AutoOpen loaded in 5,7524 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] AutoQuit loaded in 3,7608 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 14,9374 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 14,9374 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] BuffUtil loaded in 20,2896 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] DelveWalls loaded in 5,9384 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] DevTree loaded in 9,382 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] DPSMeter loaded in 7,149 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] EliteBar loaded in 29,8692 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] FullRareSetManager loaded in 12,9172 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] HealthBars loaded in 34,8154 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] HeistIcons.Main loaded in 6,9484 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] HighlightedItems loaded in 9,359 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] IconsBuilder loaded in 16,2194 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] KillCounter loaded in 5,7781 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MapsExchange loaded in 21,6815 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MineDetonator loaded in 4,1358 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MinimapIcons loaded in 64,0026 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MiscInformation loaded in 8,4855 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] PassiveSkillTreePlanter loaded in 18,3942 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Pickit loaded in 28,1967 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Willplug loaded in 6,0022 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] PreloadAlert loaded in 83,8071 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Radar loaded in 28,0343 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Skill_DPS.Core loaded in 4,5261 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Stashie loaded in 9,0347 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] XPBar loaded in 3,0475 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MiscInformation -> Initialise time: 1,0545 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] PreloadAlert -> Initialise time: 0,5406 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] HealthBars -> Initialise time: 0,9951 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MinimapIcons -> Initialise time: 0,009 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] HighlightedItems -> Initialise time: 2,4262 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] IconsBuilder -> Initialise time: 1,2354 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] MineDetonator -> Initialise time: 0,0015 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Radar -> Initialise time: 0,001 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 32,7515 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Willplug -> Initialise time: 19,5369 ms.
+2023-01-08 12:37:20.805 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 212,6648 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 12:37:20.806 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 111,7019 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 12:37:20.959 +01:00 [INF] PerfTimer =-> Preload stats and mods (2273,7504 ms) Thread #[23]
+2023-01-08 12:37:23.691 +01:00 [INF] GetAllFiles loaded in 53ms
+2023-01-08 12:37:25.761 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2023-01-08 12:37:27.741 +01:00 [INF] HUD loaded in 3020,9887 ms.
+2023-01-08 12:37:29.097 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2023-01-08 12:37:29.303 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2023-01-08 12:37:29.307 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2023-01-08 12:37:29.307 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2023-01-08 12:40:04.653 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.Collections.Generic.KeyNotFoundException: The given key 'CannotDie' was not present in the dictionary.
+   at MineDetonator.Core.<>c.<Render>b__3_3(DeployedObject x)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:41:46.220 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.Collections.Generic.KeyNotFoundException: The given key 'CannotDie' was not present in the dictionary.
+   at MineDetonator.Core.<>c.<Render>b__3_3(DeployedObject x)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:42:23.166 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.Collections.Generic.KeyNotFoundException: The given key 'CannotDie' was not present in the dictionary.
+   at MineDetonator.Core.<>c.<Render>b__3_3(DeployedObject x)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:42:46.200 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineDetonator.Core.<Render>g__IsValidMonster|3_2(Entity entity)
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.ToList()
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:43:23.397 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.Collections.Generic.KeyNotFoundException: The given key 'CannotDie' was not present in the dictionary.
+   at MineDetonator.Core.<>c.<Render>b__3_3(DeployedObject x)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:44:26.472 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineDetonator.Core.<Render>g__IsValidMonster|3_2(Entity entity)
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.ToList()
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 12:44:46.527 +01:00 [INF] =============== Close hud at 08.01.2023 12:44:46 ===============
+2023-01-08 14:14:18.906 +01:00 [INF] =============== Start hud at 08.01.2023 14:14:18 ===============
+2023-01-08 14:14:18.938 +01:00 [INF] PerfTimer =-> Create new offsets (3,4617 ms) Thread #[1]
+2023-01-08 14:14:19.228 +01:00 [INF] PerfTimer =-> Load manual fonts (0,0583 ms) Thread #[1]
+2023-01-08 14:14:19.228 +01:00 [INF] PerfTimer =-> DX11 Load (0,7915 ms) Thread #[1]
+2023-01-08 14:14:19.742 +01:00 [INF] PerfTimer =-> Load files from memory (56,8941 ms) Thread #[1]
+2023-01-08 14:14:19.851 +01:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:19.854 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:19.854 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:19.872 +01:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:19.952 +01:00 [WRN] 0 not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:19.998 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.008 +01:00 [WRN] 16 not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.043 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.044 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.044 +01:00 [WRN] ExileCore.Shared.Nodes.RangeNode`1[System.Byte] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.125 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.125 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.125 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.125 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.125 +01:00 [WRN] PassiveSkillTreePlanter.TreeConfig+SkillTreeData not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.151 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN]  not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN] <0  0> not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.161 +01:00 [WRN] PickIt.PickItSettings+FRSMOverrides not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:20.252 +01:00 [WRN] System.Int32[,] not supported for menu now. Ask developers to add this type.
+2023-01-08 14:14:21.053 +01:00 [INF] PerfTimer =-> Plugin loader (1277,006 ms) Thread #[1]
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: Game State -> : Time: 9,4162 ms. Offset:[1167827] Started searching offset with:0
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: Area change -> : Time: 17,8074 ms. Offset:[9290651] Started searching offset with:6881280
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: BlackBarSize -> : Time: 27,4033 ms. Offset:[3061397] Started searching offset with:0
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: File Root -> : Time: 28,2278 ms. Offset:[23261817] Started searching offset with:19726336
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 86,1841 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: DiagnosticInfoType -> : Time: 92,0662 ms. Offset:[13223375] Started searching offset with:600000
+2023-01-08 14:14:21.129 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 171,9537 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 14:14:21.130 +01:00 [INF] AdvancedTooltip loaded in 20,4025 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] AdvancedUberLabLayout loaded in 7,7145 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] AutoOpen loaded in 17,2149 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] AutoQuit loaded in 6,1563 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] TreeRoutine.Routine.BuildYourOwnRoutine loaded in 15,4593 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] TreeRoutine.Routine.BasicFlaskRoutine loaded in 15,4593 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] BuffUtil loaded in 30,2792 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] DelveWalls loaded in 4,6243 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] DevTree loaded in 5,6635 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] DPSMeter loaded in 7,0548 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] EliteBar loaded in 21,5443 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] FullRareSetManager loaded in 11,1029 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] HealthBars loaded in 32,2556 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] HeistIcons.Main loaded in 5,6022 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] HighlightedItems loaded in 8,3285 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] IconsBuilder loaded in 15,5387 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] KillCounter loaded in 6,3465 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] MapsExchange loaded in 23,3297 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] MineDetonator loaded in 4,1394 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] MinimapIcons loaded in 58,2588 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] MiscInformation loaded in 9,0229 ms.
+2023-01-08 14:14:21.130 +01:00 [INF] PassiveSkillTreePlanter loaded in 11,1328 ms.
+2023-01-08 14:14:21.210 +01:00 [INF] Pickit loaded in 34,7605 ms.
+2023-01-08 14:14:21.210 +01:00 [INF] Willplug loaded in 6,1882 ms.
+2023-01-08 14:14:21.248 +01:00 [INF] PreloadAlert loaded in 49,2848 ms.
+2023-01-08 14:14:21.248 +01:00 [INF] Radar loaded in 21,4882 ms.
+2023-01-08 14:14:21.248 +01:00 [INF] Skill_DPS.Core loaded in 4,3957 ms.
+2023-01-08 14:14:21.267 +01:00 [INF] Stashie loaded in 9,8016 ms.
+2023-01-08 14:14:21.267 +01:00 [INF] XPBar loaded in 3,2726 ms.
+2023-01-08 14:14:21.267 +01:00 [INF] MiscInformation -> Initialise time: 1,0798 ms.
+2023-01-08 14:14:21.267 +01:00 [INF] PreloadAlert -> Initialise time: 0,4349 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] HealthBars -> Initialise time: 8,4952 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] MinimapIcons -> Initialise time: 0,0097 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] HighlightedItems -> Initialise time: 2,5969 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] IconsBuilder -> Initialise time: 1,3643 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] MineDetonator -> Initialise time: 0,0018 ms.
+2023-01-08 14:14:21.278 +01:00 [INF] Radar -> Initialise time: 0,0016 ms.
+2023-01-08 14:14:21.304 +01:00 [INF] PerfTimer =-> Preload stats and mods (1561,2812 ms) Thread #[20]
+2023-01-08 14:14:21.305 +01:00 [INF] BasicFlaskRoutine -> Initialise time: 25,6735 ms.
+2023-01-08 14:14:21.305 +01:00 [INF] Willplug -> Initialise time: 6,3101 ms.
+2023-01-08 14:14:21.599 +01:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 218,3265 ms. Offset:[19872765] Started searching offset with:0
+2023-01-08 14:14:21.747 +01:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 109,7537 ms. Offset:[9781702] Started searching offset with:0
+2023-01-08 14:14:24.744 +01:00 [INF] GetAllFiles loaded in 55ms
+2023-01-08 14:14:26.067 +01:00 [INF] Resize from: {X=0,Y=0,Width=1920,Height=1032} to {X=0,Y=0,Width=1920,Height=1080}
+2023-01-08 14:14:28.060 +01:00 [INF] HUD loaded in 2212,4245 ms.
+2023-01-08 14:14:30.135 +01:00 [INF] PassiveSkillTree: Can't decode url from file: <TEST>
+2023-01-08 14:14:30.304 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2023-01-08 14:14:30.308 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2023-01-08 14:14:30.308 +01:00 [ERR] BaseTreeRoutinePlugin: Cannot find C:\William\GIT\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2023-01-08 14:15:32.349 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2023-01-08 14:15:59.941 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MineDetonator.Core.<Render>g__IsValidMonster|3_2(Entity entity)
+   at System.Linq.Enumerable.WhereEnumerableIterator`1.ToList()
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 14:16:01.620 +01:00 [INF] Chest debug -> CType:Breach Path: Metadata/Chests/Breach/BreachChest1 #		Text: Breach chest #		Render Name: <rgb(166,90,255)>{Clasped Hand}
+2023-01-08 14:16:52.696 +01:00 [ERR] MineDetonator, PerfomanceRender -> System.Collections.Generic.KeyNotFoundException: The given key 'CannotDie' was not present in the dictionary.
+   at MineDetonator.Core.<>c.<Render>b__3_3(DeployedObject x)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at MineDetonator.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2023-01-08 14:21:38.262 +01:00 [INF] Game not found
+2023-01-08 14:21:39.207 +01:00 [INF] =============== Close hud at 08.01.2023 14:21:39 ===============

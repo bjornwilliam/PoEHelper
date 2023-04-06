@@ -9,10 +9,10 @@
     "Value": 75.0
   },
   "CurrentAreaPct": {
-    "Value": 0.0
+    "Value": 100.0
   },
   "TriggerReason": {
-    "Value": "a2"
+    "Value": "Path: Metadata/Monsters/BlacksmithGolem/BlacksmithGolemMap@69"
   },
   "FilterNullAction": false,
   "Debug": false,
