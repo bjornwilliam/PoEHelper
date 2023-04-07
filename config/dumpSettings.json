@@ -1,8 +1,4 @@
 {
-  "RefreshArea": {},
-  "ShowDebugWindow": {
-    "Value": false
-  },
   "UseNewMemoryBackend": {
     "Value": true
   },
@@ -12,54 +8,56 @@
   "Theme": {
     "Value": "Default"
   },
-  "KeyMenuRoot": {},
   "MainMenuKeyToggle": {
     "Value": 123
   },
-  "MultiThreadLoadPlugins": {
-    "Value": false
+  "PluginSettings": {
+    "MultiThreadLoadPlugins": {
+      "Value": false
+    },
+    "AvoidLockingDllFiles": {
+      "Value": false
+    },
+    "PreferSourcePlugins": {
+      "Value": false
+    }
   },
-  "AvoidLockingDllFiles": {
-    "Value": false
+  "PerformanceSettings": {
+    "AddedMultiThread": {
+      "Value": false
+    },
+    "CoroutineMultiThreading": {
+      "Value": false
+    },
+    "ParseEntitiesInMultiThread": {
+      "Value": false
+    },
+    "CollectDebugInformation": {
+      "Value": true
+    },
+    "Threads": {
+      "Value": 1
+    },
+    "TargetFps": {
+      "Value": 60
+    },
+    "TargetParallelCoroutineFps": {
+      "Value": 60
+    },
+    "EntitiesFps": {
+      "Value": 60
+    },
+    "ParseServerEntities": {
+      "Value": false
+    },
+    "CollectEntitiesInParallelWhenMoreThanX": {
+      "Value": false
+    },
+    "LimitDrawPlot": {
+      "Value": 0.2
+    }
   },
-  "AreaChangeMultiThread": {
-    "Value": true
-  },
-  "AddedMultiThread": {
-    "Value": false
-  },
-  "CoroutineMultiThreading": {
-    "Value": true
-  },
-  "ParseEntitiesInMultiThread": {
-    "Value": true
-  },
-  "CollectDebugInformation": {
-    "Value": true
-  },
-  "Threads": {
-    "Value": 1
-  },
-  "PerfomanceRoot": {},
-  "TargetFps": {
-    "Value": 120
-  },
-  "TargetParallelFPS": {
-    "Value": 223
-  },
-  "EntitiesUpdate": {
-    "Value": 99
-  },
-  "ParseServerEntities": {
-    "Value": false
-  },
-  "CollectEntitiesInParallelWhenMoreThanX": {
-    "Value": false
-  },
-  "LimitDrawPlot": {
-    "Value": 0.2
-  },
-  "VSync": {
+  "EnableVSync": {
     "Value": false
   },
   "Font": {
@@ -74,14 +72,17 @@
   "MouseCursorScale": {
     "Value": 1.0
   },
-  "ShowDebugLog": {
+  "Volume": {
+    "Value": 100
+  },
+  "ShowDebugWindow": {
+    "Value": false
+  },
+  "ShowLogWindow": {
     "Value": false
   },
   "ShowDemoWindow": {
     "Value": false
-  },
-  "Volume": {
-    "Value": 100
   },
   "Enable": {
     "Value": false

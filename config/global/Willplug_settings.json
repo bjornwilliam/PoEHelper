@@ -1,5 +1,5 @@
 {
-  "Enable": true,
+  "Enable": false,
   "Debug": false,
   "PauseAbilityUsage": {
     "Value": 113

@@ -5,7 +5,7 @@
   "TicksPerSecond": {
     "Value": 10
   },
-  "EnableInHideout": false,
+  "EnableInHideout": true,
   "AutoFlask": true,
   "ForceBubblingAsInstantOnly": false,
   "ForcePanickedAsInstantOnly": false,

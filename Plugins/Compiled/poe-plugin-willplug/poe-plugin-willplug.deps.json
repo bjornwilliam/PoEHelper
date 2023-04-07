@@ -58,11 +58,11 @@
           }
         }
       },
-      "ClickableTransparentOverlay/6.0.2.0": {
+      "ClickableTransparentOverlay/6.2.1.0": {
         "runtime": {
           "ClickableTransparentOverlay.dll": {
-            "assemblyVersion": "6.0.2.0",
-            "fileVersion": "6.0.2.0"
+            "assemblyVersion": "6.2.1.0",
+            "fileVersion": "6.2.1.0"
           }
         }
       },
@@ -199,22 +199,6 @@
           }
         }
       },
-      "Vortice.Direct3D11/2.1.41.0": {
-        "runtime": {
-          "Vortice.Direct3D11.dll": {
-            "assemblyVersion": "2.1.41.0",
-            "fileVersion": "2.1.41.0"
-          }
-        }
-      },
-      "Vortice.DirectX/2.1.41.0": {
-        "runtime": {
-          "Vortice.DirectX.dll": {
-            "assemblyVersion": "2.1.41.0",
-            "fileVersion": "2.1.41.0"
-          }
-        }
-      },
       "Vortice.Mathematics/1.4.0.0": {
         "runtime": {
           "Vortice.Mathematics.dll": {
@@ -223,27 +207,11 @@
           }
         }
       },
-      "Vortice.DXGI/2.1.41.0": {
-        "runtime": {
-          "Vortice.DXGI.dll": {
-            "assemblyVersion": "2.1.41.0",
-            "fileVersion": "2.1.41.0"
-          }
-        }
-      },
       "SharpGen.Runtime/2.0.0.0": {
         "runtime": {
           "SharpGen.Runtime.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.0.0.0"
-          }
-        }
-      },
-      "Vortice.D3DCompiler/2.1.41.0": {
-        "runtime": {
-          "Vortice.D3DCompiler.dll": {
-            "assemblyVersion": "2.1.41.0",
-            "fileVersion": "2.1.41.0"
           }
         }
       },
@@ -260,14 +228,6 @@
           "Vanara.PInvoke.ComDlg32.dll": {
             "assemblyVersion": "3.4.11.0",
             "fileVersion": "3.4.11.0"
-          }
-        }
-      },
-      "SharpGen.Runtime.COM/2.0.0.0": {
-        "runtime": {
-          "SharpGen.Runtime.COM.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
           }
         }
       }
@@ -304,7 +264,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClickableTransparentOverlay/6.0.2.0": {
+    "ClickableTransparentOverlay/6.2.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -389,32 +349,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Vortice.Direct3D11/2.1.41.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Vortice.DirectX/2.1.41.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Vortice.Mathematics/1.4.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "Vortice.DXGI/2.1.41.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SharpGen.Runtime/2.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Vortice.D3DCompiler/2.1.41.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -425,11 +365,6 @@
       "sha512": ""
     },
     "Vanara.PInvoke.ComDlg32/3.4.11.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SharpGen.Runtime.COM/2.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
