@@ -114,6 +114,8 @@
     "UtilityFlaskTaunt": 0,
     "UtilityFlaskWard": 0,
 
+    "FlaskEffectDurationUnique": 0,
+    "FlaskZealotsOathUnique" : 0,
     "FlaskBuffReducedManaCostWhileHealing": 0,
     "FlaskChanceRechargeOnCrit": 0,
     "FlaskChargesAddedIncreasePercent": 0,

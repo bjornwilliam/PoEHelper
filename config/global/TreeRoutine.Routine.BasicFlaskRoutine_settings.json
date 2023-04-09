@@ -24,7 +24,7 @@
   },
   "DisableLifeSecUse": false,
   "ManaPotion": {
-    "Value": 38
+    "Value": 60
   },
   "InstantManaPotion": {
     "Value": 35
@@ -46,7 +46,7 @@
   "QuicksilverFlaskEnable": true,
   "SilverFlaskEnable": false,
   "MinMsPlayerMoving": {
-    "Value": 774
+    "Value": 46
   },
   "UseWhileCycloning": false,
   "CycloningMonsterCount": {
@@ -85,13 +85,13 @@
   },
   "OffensiveFlaskEnable": true,
   "HPPercentOffensive": {
-    "Value": 80
+    "Value": 100
   },
   "ESPercentOffensive": {
     "Value": 50
   },
   "OffensiveMonsterCount": {
-    "Value": 0
+    "Value": 1
   },
   "OffensiveMonsterDistance": {
     "Value": 400
