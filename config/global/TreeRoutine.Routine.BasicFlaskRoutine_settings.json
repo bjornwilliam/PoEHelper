@@ -5,12 +5,12 @@
   "TicksPerSecond": {
     "Value": 10
   },
-  "EnableInHideout": true,
+  "EnableInHideout": false,
   "AutoFlask": true,
   "ForceBubblingAsInstantOnly": false,
   "ForcePanickedAsInstantOnly": false,
   "HPPotion": {
-    "Value": 65
+    "Value": 95
   },
   "InstantHPPotion": {
     "Value": 50
@@ -106,7 +106,7 @@
       "Hotkey": {
         "Value": 49
       },
-      "Enabled": true,
+      "Enabled": false,
       "ReservedUses": {
         "Value": 0
       }

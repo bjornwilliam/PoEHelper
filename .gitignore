@@ -1,3 +1,4 @@
 .vs*
 *.dll.config
 *.[Pp]db
+Logs/

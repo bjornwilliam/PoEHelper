@@ -1,5 +1,5 @@
 {
-  "Enable": false,
+  "Enable": true,
   "Debug": false,
   "PauseAbilityUsage": {
     "Value": 113
@@ -11,6 +11,6 @@
     "Value": 115
   },
   "CharacterList": {
-    "Value": "char2"
+    "Value": "char1"
   }
 }
