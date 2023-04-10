@@ -88,13 +88,13 @@
     "Value": 100
   },
   "ESPercentOffensive": {
-    "Value": 50
+    "Value": 100
   },
   "OffensiveMonsterCount": {
     "Value": 1
   },
   "OffensiveMonsterDistance": {
-    "Value": 400
+    "Value": 518
   },
   "OffensiveCountNormalMonsters": true,
   "OffensiveCountRareMonsters": true,

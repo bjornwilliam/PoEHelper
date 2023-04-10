@@ -114,6 +114,8 @@
     "UtilityFlaskTaunt": 0,
     "UtilityFlaskWard": 0,
 
+    "LocalFlaskNoManaCostWhileHealingUniqueFlask": 0,
+    "FlaskIncreasedRecoveryAmountUniqueFlask": 0,
     "FlaskEffectDurationUnique": 0,
     "FlaskZealotsOathUnique" : 0,
     "FlaskBuffReducedManaCostWhileHealing": 0,
