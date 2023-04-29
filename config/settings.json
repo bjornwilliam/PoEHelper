@@ -27,7 +27,7 @@
       "Value": false
     },
     "CoroutineMultiThreading": {
-      "Value": false
+      "Value": true
     },
     "ParseEntitiesInMultiThread": {
       "Value": false
@@ -36,7 +36,7 @@
       "Value": true
     },
     "Threads": {
-      "Value": 1
+      "Value": 4
     },
     "TargetFps": {
       "Value": 60

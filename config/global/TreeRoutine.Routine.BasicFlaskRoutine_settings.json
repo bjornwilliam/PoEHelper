@@ -3,7 +3,7 @@
   "Debug": false,
   "BossingMode": false,
   "TicksPerSecond": {
-    "Value": 10
+    "Value": 20
   },
   "EnableInHideout": false,
   "AutoFlask": true,
@@ -44,9 +44,9 @@
   },
   "SpeedFlaskEnable": true,
   "QuicksilverFlaskEnable": true,
-  "SilverFlaskEnable": false,
+  "SilverFlaskEnable": true,
   "MinMsPlayerMoving": {
-    "Value": 46
+    "Value": 524
   },
   "UseWhileCycloning": false,
   "CycloningMonsterCount": {
@@ -62,17 +62,17 @@
   "CycloningIgnoreFullHealthUniqueMonsters": false,
   "DefensiveFlaskEnable": true,
   "HPPercentDefensive": {
-    "Value": 86
+    "Value": 100
   },
   "ESPercentDefensive": {
-    "Value": 50
+    "Value": 100
   },
-  "OffensiveAsDefensiveEnable": false,
+  "OffensiveAsDefensiveEnable": true,
   "DefensiveMonsterCount": {
     "Value": 1
   },
   "DefensiveMonsterDistance": {
-    "Value": 400
+    "Value": 924
   },
   "DefensiveCountNormalMonsters": true,
   "DefensiveCountRareMonsters": true,
@@ -81,7 +81,7 @@
   "DefensiveIgnoreFullHealthUniqueMonsters": false,
   "BossingModeToggle": false,
   "BossingModeHotkey": {
-    "Value": 84
+    "Value": 112
   },
   "OffensiveFlaskEnable": true,
   "HPPercentOffensive": {
@@ -94,13 +94,13 @@
     "Value": 1
   },
   "OffensiveMonsterDistance": {
-    "Value": 518
+    "Value": 1367
   },
   "OffensiveCountNormalMonsters": true,
   "OffensiveCountRareMonsters": true,
   "OffensiveCountMagicMonsters": true,
   "OffensiveCountUniqueMonsters": true,
-  "OffensiveIgnoreFullHealthUniqueMonsters": true,
+  "OffensiveIgnoreFullHealthUniqueMonsters": false,
   "FlaskSettings": [
     {
       "Hotkey": {

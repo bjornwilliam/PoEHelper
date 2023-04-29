@@ -1,5 +1,5 @@
 {
-  "Enable": true,
+  "Enable": false,
   "IgnoreUiElementVisibility": false,
   "ShowInTown": false,
   "ShowInHideout": true,
