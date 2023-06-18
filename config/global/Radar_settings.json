@@ -5,6 +5,9 @@
   },
   "DrawWalkableMap": true,
   "TerrainColor": "969696ff",
+  "MaximumMapTextureDimension": {
+    "Value": 4096
+  },
   "MaximumPathCount": {
     "Value": 1000
   },
