@@ -1,25 +1,22 @@
 {
-  "Opened": false,
   "ToggleWindowState": false,
-  "ToggleWindow": false,
+  "ToggleWindowUsingHotkey": false,
   "ToggleWindowKey": {
     "Value": 105
   },
-  "DebugNearestEnts": {
-    "Value": 102
-  },
-  "DebugHoverItem": {
+  "DebugUIHoverItemKey": {
     "Value": 101
   },
-  "NearestEntsRange": {
+  "SaveHoveredDevTreeNodeKey": {
+    "Value": 104
+  },
+  "NearestEntitiesRange": {
     "Value": 300
   },
-  "LimitForCollection": {
+  "LimitForCollections": {
     "Value": 500
   },
-  "LimitEntriesDrawn": true,
-  "EntriesDrawLimit": {
-    "Value": 500
-  },
+  "FrameColor": "ffff00ff",
+  "ErrorColor": "ff0000ff",
   "Enable": false
 }

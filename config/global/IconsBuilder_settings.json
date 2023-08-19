@@ -21,6 +21,12 @@
   "SizeBreachChestIcon": {
     "Value": 10
   },
+  "SizeHeistChestIcon": {
+    "Value": 30
+  },
+  "ExpeditionChestIconSize": {
+    "Value": 30
+  },
   "SizeChestIcon": {
     "Value": 10
   },

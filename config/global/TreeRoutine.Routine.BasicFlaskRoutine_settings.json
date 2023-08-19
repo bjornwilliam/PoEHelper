@@ -1,6 +1,7 @@
 {
   "Enable": true,
   "Debug": false,
+  "EnableMissingConfigEntryNotifications": true,
   "BossingMode": false,
   "TicksPerSecond": {
     "Value": 20

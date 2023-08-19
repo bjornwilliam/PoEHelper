@@ -48,6 +48,42 @@
   "CombatHealColor": "008000ff",
   "ResizeBarsToFitText": true,
   "UseShadedTexture": true,
+  "UseOldConfigFormat": false,
+  "BossOverlaySettings": {
+    "Show": true,
+    "ItemSpacing": {
+      "Value": 100
+    },
+    "BarHeight": {
+      "Value": 20
+    },
+    "Width": {
+      "Value": 500
+    },
+    "Location": {
+      "Value": {
+        "X": 10.0,
+        "Y": 300.0
+      }
+    },
+    "ShowCastBarStageNames": false,
+    "ShowMonsterNames": true,
+    "MaxEntries": {
+      "Value": 5
+    }
+  },
+  "CommonCastBarSettings": {
+    "MaxSkillNameLength": {
+      "Value": 5
+    },
+    "MaxSkillNameLengthForBossOverlay": {
+      "Value": 20
+    },
+    "ShowNextStageName": true,
+    "ShowNextStageNameInBossOverlay": true,
+    "DebugShowAllSkillStages": false,
+    "CutOffBackswing": true
+  },
   "Self": {
     "Show": true,
     "Width": {
@@ -83,8 +119,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "UniqueEnemy": {
@@ -122,8 +174,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": true,
     "TextFormat": {
       "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "RareEnemy": {
@@ -161,8 +229,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": "{percent}% {current}/{total}"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "MagicEnemy": {
@@ -200,8 +284,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "NormalEnemy": {
@@ -239,8 +339,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "Minions": {
@@ -278,8 +394,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": ""
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   },
   "Players": {
@@ -317,8 +449,24 @@
     "HoverOpacity": {
       "Value": 1.0
     },
+    "IncludeInBossOverlay": false,
     "TextFormat": {
       "Value": "{percent}%"
+    },
+    "CastBarSettings": {
+      "Show": false,
+      "Height": {
+        "Value": 30.0
+      },
+      "BackgroundColor": "000000ff",
+      "FillColor": "00ffffff",
+      "DangerTextColor": "ff0000ff",
+      "NoDangerTextColor": "0000ffff",
+      "StageTextColor": "ffffffff",
+      "YOffset": {
+        "Value": 0.0
+      },
+      "ShowStageNames": true
     }
   }
 }

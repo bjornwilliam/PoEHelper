@@ -65,6 +65,13 @@
     "Value": 1
   },
   "BerserkUseOnUniqueBoss": true,
+  "ArcaneCloak": false,
+  "ArcaneCloakKey": {
+    "Value": 82
+  },
+  "ArcaneCloakMaxHP": {
+    "Value": 90
+  },
   "Warcry": false,
   "WarcryKey": {
     "Value": 82

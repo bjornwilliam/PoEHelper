@@ -1,82 +1,86 @@
 {
   "IgnoredCells": [
     [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
     ],
     [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      1
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
     ]
   ],
   "Enable": true,
   "DumpButtonEnable": true,
   "ShowStackSizes": true,
   "ShowStackCountWithSize": true,
-  "HotKey": {
-    "Value": 189
+  "MoveToInventoryHotkey": {
+    "Value": 112
+  },
+  "UseMoveToInventoryAsMoveToStashWhenNoHighlights": false,
+  "MoveToStashHotkey": {
+    "Value": 0
   },
   "ExtraDelay": {
     "Value": 63
@@ -85,5 +89,21 @@
   "IdleMouseDelay": {
     "Value": 200
   },
-  "CancelWithRightMouseButton": true
+  "CancelWithRightMouseButton": true,
+  "VerifyTargetInventoryIsOpened": true,
+  "VerifyButtonIsNotObstructed": true,
+  "UseCustomMoveToStashButtonPosition": false,
+  "CustomMoveToStashButtonPosition": {
+    "Value": {
+      "X": 0.0,
+      "Y": 0.0
+    }
+  },
+  "UseCustomMoveToInventoryButtonPosition": false,
+  "CustomMoveToInventoryButtonPosition": {
+    "Value": {
+      "X": 0.0,
+      "Y": 0.0
+    }
+  }
 }

@@ -1,6 +1,7 @@
 {
   "Enable": false,
   "Debug": false,
+  "EnableMissingConfigEntryNotifications": true,
   "FlaskSettings": [
     {
       "Hotkey": {

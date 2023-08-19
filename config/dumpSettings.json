@@ -63,6 +63,9 @@
   "Font": {
     "Value": "Default:13"
   },
+  "FontGlyphRange": {
+    "Value": "Cyrillic"
+  },
   "FontSize": {
     "Value": 13
   },

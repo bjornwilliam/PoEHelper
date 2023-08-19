@@ -9,9 +9,10 @@
   },
   "ItemMods": {
     "Enable": true,
-    "ModTextSize": {
-      "Value": 13
-    },
+    "EnableFastMods": true,
+    "EnableFastModsTags": true,
+    "ShowModNames": true,
+    "StartStatsOnSameLine": false,
     "BackgroundColor": "000000dc",
     "PrefixColor": "8888ffff",
     "SuffixColor": "00ced1ff",
@@ -33,8 +34,8 @@
     "DmgColdColor": "366492ff",
     "DmgLightningColor": "ffd700ff",
     "DmgChaosColor": "d01f90ff",
-    "pDamageColor": "ffffffff",
-    "eDamageColor": "00ffffff"
+    "PhysicalDamageColor": "ffffffff",
+    "ElementalDamageColor": "00ffffff"
   },
   "Enable": false
 }
