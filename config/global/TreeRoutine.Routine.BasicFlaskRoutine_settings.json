@@ -11,7 +11,7 @@
   "ForceBubblingAsInstantOnly": false,
   "ForcePanickedAsInstantOnly": false,
   "HPPotion": {
-    "Value": 95
+    "Value": 79
   },
   "InstantHPPotion": {
     "Value": 50
@@ -73,13 +73,13 @@
     "Value": 1
   },
   "DefensiveMonsterDistance": {
-    "Value": 924
+    "Value": 886
   },
-  "DefensiveCountNormalMonsters": true,
+  "DefensiveCountNormalMonsters": false,
   "DefensiveCountRareMonsters": true,
   "DefensiveCountMagicMonsters": true,
   "DefensiveCountUniqueMonsters": true,
-  "DefensiveIgnoreFullHealthUniqueMonsters": false,
+  "DefensiveIgnoreFullHealthUniqueMonsters": true,
   "BossingModeToggle": false,
   "BossingModeHotkey": {
     "Value": 112
@@ -95,13 +95,13 @@
     "Value": 1
   },
   "OffensiveMonsterDistance": {
-    "Value": 1367
+    "Value": 1251
   },
   "OffensiveCountNormalMonsters": true,
   "OffensiveCountRareMonsters": true,
   "OffensiveCountMagicMonsters": true,
   "OffensiveCountUniqueMonsters": true,
-  "OffensiveIgnoreFullHealthUniqueMonsters": false,
+  "OffensiveIgnoreFullHealthUniqueMonsters": true,
   "FlaskSettings": [
     {
       "Hotkey": {
@@ -116,7 +116,7 @@
       "Hotkey": {
         "Value": 50
       },
-      "Enabled": true,
+      "Enabled": false,
       "ReservedUses": {
         "Value": 0
       }

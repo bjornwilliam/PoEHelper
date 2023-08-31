@@ -6,5 +6,5 @@
   "DrawOnlyOnLargeMap": true,
   "MultiThreading": false,
   "DrawNotValid": false,
-  "Enable": false
+  "Enable": true
 }
