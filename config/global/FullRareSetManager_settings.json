@@ -7,16 +7,24 @@
   "PositionX": {
     "Value": 0.0
   },
+  "WidthMultiplier": {
+    "Value": 1.0
+  },
   "PositionY": {
     "Value": 365.0
+  },
+  "HeightMultiplier": {
+    "Value": 1.0
   },
   "AllowIdentified": false,
   "ShowOnlyWithInventory": false,
   "HideWhenLeftPanelOpened": false,
   "ShowRegalSets": false,
+  "OptimizeChaosSets": true,
   "WeaponTypePriority": {
     "Value": "Two handed"
   },
+  "SmallWeaponOnly": false,
   "MaxSets": {
     "Value": 0
   },
@@ -45,10 +53,12 @@
     "Value": -20.0
   },
   "IgnoreOneHanded": false,
+  "Ignore1": false,
   "CalcByFreeSpace": false,
   "IgnoreElderShaper": true,
   "ShowRedRectangleAroundIgnoredItems": true,
   "AutoSell": true,
+  "LablesWhileHovered": true,
   "Enable": false,
   "OnlyAllowedStashTabs": false
 }

@@ -107,7 +107,7 @@
       "Hotkey": {
         "Value": 49
       },
-      "Enabled": false,
+      "Enabled": true,
       "ReservedUses": {
         "Value": 0
       }
@@ -116,7 +116,7 @@
       "Hotkey": {
         "Value": 50
       },
-      "Enabled": false,
+      "Enabled": true,
       "ReservedUses": {
         "Value": 0
       }

@@ -27,6 +27,12 @@
   "ExpeditionChestIconSize": {
     "Value": 30
   },
+  "SanctumChestIconSize": {
+    "Value": 30
+  },
+  "SanctumGoldIconSize": {
+    "Value": 30
+  },
   "SizeChestIcon": {
     "Value": 10
   },
