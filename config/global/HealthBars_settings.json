@@ -468,5 +468,10 @@
       },
       "ShowStageNames": true
     }
+  },
+  "LegionSettings": {
+    "ShowHiddenNormalAndMagicMonsters": false,
+    "ShowHiddenRareMonsters": true,
+    "ShowHiddenUniqueMonsters": true
   }
 }

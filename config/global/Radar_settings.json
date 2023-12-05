@@ -16,6 +16,10 @@
     "DefaultMapPathColor": "008000ff",
     "UseRainbowColorsForMapPaths": false,
     "ShowAllTargets": false,
+    "MaxTargetNameCount": {
+      "Value": 10
+    },
+    "IncludeTilePathsAsTargets": true,
     "ShowSelectedTargets": false,
     "EnableTargetNameBackground": false,
     "TargetNameColor": "ee82eeff",
@@ -41,6 +45,7 @@
     "SkipRecoloring": false,
     "DisableDrawRegionLimiting": false,
     "IgnoreFullscreenPanels": false,
+    "IgnoreLargePanels": false,
     "MapCenterOffsetX": {
       "Value": 0
     },

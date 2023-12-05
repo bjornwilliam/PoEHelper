@@ -186,6 +186,14 @@
           }
         }
       },
+      "Vanara.Core/3.4.11.0": {
+        "runtime": {
+          "Vanara.Core.dll": {
+            "assemblyVersion": "3.4.11.0",
+            "fileVersion": "3.4.11.0"
+          }
+        }
+      },
       "Vortice.Direct3D11/2.2.0.0": {
         "runtime": {
           "Vortice.Direct3D11.dll": {
@@ -237,14 +245,6 @@
       "Vanara.PInvoke.Gdi32/3.4.11.0": {
         "runtime": {
           "Vanara.PInvoke.Gdi32.dll": {
-            "assemblyVersion": "3.4.11.0",
-            "fileVersion": "3.4.11.0"
-          }
-        }
-      },
-      "Vanara.Core/3.4.11.0": {
-        "runtime": {
-          "Vanara.Core.dll": {
             "assemblyVersion": "3.4.11.0",
             "fileVersion": "3.4.11.0"
           }
@@ -379,6 +379,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Vanara.Core/3.4.11.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Vortice.Direct3D11/2.2.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -410,11 +415,6 @@
       "sha512": ""
     },
     "Vanara.PInvoke.Gdi32/3.4.11.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Vanara.Core/3.4.11.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
