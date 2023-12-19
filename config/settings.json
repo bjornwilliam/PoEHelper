@@ -20,6 +20,10 @@
     },
     "PreferSourcePlugins": {
       "Value": false
+    },
+    "FolderSettings": {
+      "PluginFolders": [],
+      "PluginFolderMapping": {}
     }
   },
   "PerformanceSettings": {

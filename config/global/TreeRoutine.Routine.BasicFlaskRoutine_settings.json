@@ -41,7 +41,7 @@
   "RemPoison": false,
   "RemBleed": true,
   "CorruptCount": {
-    "Value": 10
+    "Value": 1
   },
   "SpeedFlaskEnable": true,
   "QuicksilverFlaskEnable": true,
