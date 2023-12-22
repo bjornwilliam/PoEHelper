@@ -1,11 +1,11 @@
 {
-  "Enable": false,
-  "ShowInTown": false,
+  "Enable": true,
+  "ShowInTown": true,
   "DpsFontColor": "dcbe82ff",
   "PeakFontColor": "dcbe82ff",
   "BackgroundColor": "000000ff",
   "ClearNode": {},
-  "ShowAOE": true,
+  "ShowAOE": false,
   "ShowCurrentHitDamage": true,
   "HasCullingStrike": false,
   "UpdateTime": {

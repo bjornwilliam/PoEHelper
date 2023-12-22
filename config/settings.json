@@ -59,6 +59,9 @@
     },
     "LimitDrawPlot": {
       "Value": 0.2
+    },
+    "MaxGroundItemLabels": {
+      "Value": 5000
     }
   },
   "EnableVSync": {
