@@ -11,7 +11,7 @@
   "ForceBubblingAsInstantOnly": false,
   "ForcePanickedAsInstantOnly": false,
   "HPPotion": {
-    "Value": 79
+    "Value": 70
   },
   "InstantHPPotion": {
     "Value": 50
@@ -82,7 +82,7 @@
   "DefensiveIgnoreFullHealthUniqueMonsters": true,
   "BossingModeToggle": false,
   "BossingModeHotkey": {
-    "Value": 112
+    "Value": 114
   },
   "OffensiveFlaskEnable": true,
   "HPPercentOffensive": {
