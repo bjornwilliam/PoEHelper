@@ -1,12 +1,12 @@
 {
   "DetonateKey": {
-    "Value": 68
+    "Value": 86
   },
   "DetonateDelay": {
     "Value": 100
   },
   "DetonateDist": {
-    "Value": 75.0
+    "Value": 65.627
   },
   "CurrentAreaPct": {
     "Value": 100.0
@@ -15,6 +15,6 @@
     "Value": "Path: Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@55"
   },
   "FilterNullAction": false,
-  "Debug": false,
+  "Debug": true,
   "Enable": false
 }
