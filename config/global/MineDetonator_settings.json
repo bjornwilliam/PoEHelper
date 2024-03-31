@@ -3,7 +3,7 @@
     "Value": 86
   },
   "DetonateDelay": {
-    "Value": 100
+    "Value": 133
   },
   "DetonateDist": {
     "Value": 65.627
@@ -12,9 +12,9 @@
     "Value": 100.0
   },
   "TriggerReason": {
-    "Value": "Path: Metadata/Monsters/Skeletons/IzaroSummonSkeletonGhostflame@55"
+    "Value": "Path: Metadata/Monsters/ZombieDismember/ZombieDrowned1@2"
   },
   "FilterNullAction": false,
-  "Debug": true,
-  "Enable": false
+  "Debug": false,
+  "Enable": true
 }
