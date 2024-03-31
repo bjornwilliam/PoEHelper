@@ -27,17 +27,11 @@
     }
   },
   "PerformanceSettings": {
-    "AddedMultiThread": {
-      "Value": false
-    },
     "CoroutineMultiThreading": {
       "Value": true
     },
     "ParseEntitiesInMultiThread": {
       "Value": false
-    },
-    "CollectDebugInformation": {
-      "Value": true
     },
     "Threads": {
       "Value": 4
@@ -54,14 +48,14 @@
     "ParseServerEntities": {
       "Value": false
     },
-    "CollectEntitiesInParallelWhenMoreThanX": {
-      "Value": false
-    },
     "LimitDrawPlot": {
       "Value": 0.2
     },
     "MaxGroundItemLabels": {
       "Value": 5000
+    },
+    "MaxEntities": {
+      "Value": 10000
     }
   },
   "EnableVSync": {
