@@ -1,6 +1,6 @@
 {
   "DetonateKey": {
-    "Value": 86
+    "Value": 74
   },
   "DetonateDelay": {
     "Value": 133
@@ -9,12 +9,12 @@
     "Value": 65.627
   },
   "CurrentAreaPct": {
-    "Value": 100.0
+    "Value": 110.25336
   },
   "TriggerReason": {
-    "Value": "Path: Metadata/Monsters/ZombieDismember/ZombieDrowned1@2"
+    "Value": "Path: Metadata/Monsters/SlaveCatcher/SlaveCatcher@42"
   },
   "FilterNullAction": false,
   "Debug": false,
-  "Enable": true
+  "Enable": false
 }
