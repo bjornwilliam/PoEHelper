@@ -11,6 +11,9 @@
   "MainMenuKeyToggle": {
     "Value": 123
   },
+  "PauseAllPluginsHotkey": {
+    "Value": 0
+  },
   "PluginSettings": {
     "MultiThreadLoadPlugins": {
       "Value": false
@@ -20,6 +23,9 @@
     },
     "PreferSourcePlugins": {
       "Value": false
+    },
+    "BuildAllPluginsAtOnce": {
+      "Value": true
     },
     "FolderSettings": {
       "PluginFolders": [],
