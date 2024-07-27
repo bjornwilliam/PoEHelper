@@ -44,7 +44,8 @@
     "Stibnite Flask": "flask_utility_smoke",
     "Sulphur Flask": "flask_utility_consecrate",
     "Silver Flask": "flask_utility_haste",
-    "Bismuth Flask": "flask_utility_prismatic"
+    "Bismuth Flask": "flask_utility_prismatic",
+    "Corundum Flask": "flask_utility_stun_protection"
   },
   "flaskNameToBuffConversion2": {
     "Small Hybrid Flask": "flask_effect_mana",

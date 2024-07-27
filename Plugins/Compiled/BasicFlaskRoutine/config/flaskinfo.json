@@ -39,6 +39,7 @@
     "The Writhing Jar": 6,
     "Coralito's Signature": 6,
 
+    "Bottled Faith": 8,
     "Atziri's Promise": 8,
     "Dying Sun": 8,
     "Kiara's Determination": 8,
@@ -203,7 +204,8 @@
     "JunMaster2LocalFlaskCriticalStrikeChanceDuringFlaskEffect1": 8,
     "JunMaster2LocalFlaskItemFoundRarityDuringFlaskEffect1": 6,
     "JunMaster2LocalFlaskLifeLeechOnDamageTakenPermyriadDuringFlaskEffect1": 5,
-    "JunMaster2LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect1_": 5,
+    "JunMaster2LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect1": 5,
+    "JunMaster2LocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect": 5,
     "JunMaster2LocalFlaskSkillManaCostDuringFlaskEffect1": 8,
 
     "JunMasterLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect1": 7,

@@ -1,2 +1,0 @@
-Metadata/Terrain/Labyrinth/Objects/Puzzle_Parts/Switch
-Metadata/MiscellaneousObjects/Door
