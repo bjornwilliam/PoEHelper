@@ -8,7 +8,7 @@
   "PickedBorderColor": "00000000",
   "UnpickedBorderColor": "008000ff",
   "WrongPickedBorderColor": "ff0000ff",
-  "EnableEzTreeChanger": true,
+  "ShowControlPanel": true,
   "SaveChangesAutomatically": true,
   "Enable": false
 }

@@ -82,6 +82,20 @@
   "MoveToStashHotkey": {
     "Value": 0
   },
+  "InvertSelection": false,
+  "ShowCustomFilterWindow": true,
+  "ResetCustomFilterOnPanelClose": true,
+  "UsePopupForFilterSelector": false,
+  "CustomFilterFrameThickness": {
+    "Value": 2
+  },
+  "CustomFilterFrameColor": "ee82eeff",
+  "CustomFilterBorderRounding": {
+    "Value": 0.0
+  },
+  "CustomFilterBorderDeflation": {
+    "Value": 8
+  },
   "ExtraDelay": {
     "Value": 63
   },
@@ -105,5 +119,7 @@
       "X": 0.0,
       "Y": 0.0
     }
-  }
+  },
+  "SavedFilters": [],
+  "OpenSavedFilterList": true
 }

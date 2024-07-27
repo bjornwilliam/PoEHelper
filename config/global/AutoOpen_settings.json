@@ -1,26 +1,34 @@
 {
   "Enable": false,
-  "toggleEntityKey": {
+  "ToggleEntityKey": {
     "Value": 86
   },
-  "BlockInput": true,
-  "Speed": {
+  "BlockInputWhenClicking": true,
+  "ClickDelay": {
     "Value": 1
   },
-  "doors": true,
-  "doorDistance": {
-    "Value": 150
+  "DoorSettings": {
+    "Open": true,
+    "MaxDistance": {
+      "Value": 150
+    }
   },
-  "switches": true,
-  "switchDistance": {
-    "Value": 150
+  "SwitchSettings": {
+    "Open": true,
+    "MaxDistance": {
+      "Value": 150
+    }
   },
-  "chests": true,
-  "chestDistance": {
-    "Value": 150
+  "ChestSettings": {
+    "Open": true,
+    "MaxDistance": {
+      "Value": 150
+    }
   },
-  "shrines": true,
-  "shrineDistance": {
-    "Value": 150
+  "ShrineSettings": {
+    "Open": true,
+    "MaxDistance": {
+      "Value": 150
+    }
   }
 }

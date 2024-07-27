@@ -64,6 +64,12 @@
       "Value": 10000
     }
   },
+  "TryLoadingStatDescriptionsFromGameData": {
+    "Value": false
+  },
+  "UseOldStyleListNode": {
+    "Value": false
+  },
   "EnableVSync": {
     "Value": false
   },
